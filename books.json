@@ -3,21 +3,21 @@
     "title": "title1",
     "author": "author1",
     "age": "age1",
-    "genres": ["acción"],
+    "genres": ["accion"],
     "status": true
   },
   {
     "title": "title2",
     "author": "author1",
     "age": "age1",
-    "genres": ["fantasía", "aventura"],
+    "genres": ["fantasia"],
     "status": false
   },
   {
     "title": "title3",
     "author": "author1",
     "age": "age1",
-    "genres": ["acción", "fantasia", "aventura"],
+    "genres": ["aventura"],
     "status": true
   },
   {
@@ -31,42 +31,42 @@
     "title": "title5",
     "author": "author4",
     "age": "age4",
-    "genres": ["fantasía", "aventura"],
+    "genres": ["fantasia"],
     "status": true
   },
   {
     "title": "title6",
     "author": "author4",
     "age": "age4",
-    "genres": ["accion", "aventura"],
+    "genres": ["accion"],
     "status": false
   },
   {
     "title": "title7",
     "author": "author4",
     "age": "age7",
-    "genres": ["acción"],
+    "genres": ["accion"],
     "status": true
   },
   {
     "title": "title8",
     "author": "author3",
     "age": "age7",
-    "genres": ["acción", "fantasía"],
+    "genres": ["fantasia"],
     "status": true
   },
   {
     "title": "title9",
     "author": "author3",
     "age": "age8",
-    "genres": ["fantasía"],
+    "genres": ["fantasia"],
     "status": true
   },
   {
     "title": "title10",
     "author": "author9",
     "age": "age8",
-    "genres": ["fantasía", "aventura"],
+    "genres": ["aventura"],
     "status": false
   }
 ]
