@@ -3,21 +3,21 @@
     "title": "title1",
     "author": "author1",
     "age": "age1",
-    "genres": ["accion"],
+    "genres": ["accion", "fantasia"],
     "status": "disponible"
   },
   {
     "title": "title2",
     "author": "author1",
     "age": "age1",
-    "genres": ["fantasia"],
+    "genres": ["fantasia", "aventura"],
     "status": "noDisponible"
   },
   {
     "title": "title3",
     "author": "author1",
     "age": "age1",
-    "genres": ["aventura"],
+    "genres": ["aventura", "accion"],
     "status": "disponible"
   },
   {
