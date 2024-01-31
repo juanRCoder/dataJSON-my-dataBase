@@ -3,6 +3,8 @@
     "title": "title1",
     "author": "author1",
     "age": "age1",
+    "shelf": "A",
+    "level": 2,
     "genres": ["accion", "fantasia"],
     "status": "disponible"
   },
@@ -10,6 +12,8 @@
     "title": "title2",
     "author": "author1",
     "age": "age1",
+    "shelf": "A",
+    "level": 4,
     "genres": ["fantasia", "aventura"],
     "status": "noDisponible"
   },
@@ -17,6 +21,8 @@
     "title": "title3",
     "author": "author1",
     "age": "age1",
+    "shelf": "B",
+    "level": 2,
     "genres": ["aventura", "accion"],
     "status": "disponible"
   },
@@ -24,6 +30,8 @@
     "title": "title4",
     "author": "author4",
     "age": "age4",
+    "shelf": "B",
+    "level": 1,
     "genres": ["aventura"],
     "status": "disponible"
   },
@@ -31,6 +39,8 @@
     "title": "title5",
     "author": "author4",
     "age": "age4",
+    "shelf": "C",
+    "level": 3,
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -38,6 +48,8 @@
     "title": "title6",
     "author": "author4",
     "age": "age4",
+    "shelf": "C",
+    "level": 4,
     "genres": ["accion"],
     "status": "noDisponible"
   },
@@ -45,6 +57,8 @@
     "title": "title7",
     "author": "author4",
     "age": "age7",
+    "shelf": "D",
+    "level": 2,
     "genres": ["accion"],
     "status": "disponible"
   },
@@ -52,6 +66,8 @@
     "title": "title8",
     "author": "author3",
     "age": "age7",
+    "shelf": "D",
+    "level": 4,
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -59,6 +75,8 @@
     "title": "title9",
     "author": "author3",
     "age": "age8",
+    "shelf": "E",
+    "level": 1,
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -66,7 +84,45 @@
     "title": "title10",
     "author": "author9",
     "age": "age8",
+    "shelf": "F",
+    "level": 4,
     "genres": ["aventura"],
+    "status": "noDisponible"
+  }
+   {
+    "title": "title11",
+    "author": "author9",
+    "age": "age8",
+    "shelf": "G",
+    "level": 4,
+    "genres": ["accion", "fantasia"],
+    "status": "disponible"
+  }
+   {
+    "title": "title12",
+    "author": "author9",
+    "age": "age7",
+    "shelf": "H",
+    "level": 4,
+    "genres": ["fantasia"],
+    "status": "noDisponible"
+  }
+   {
+    "title": "title13",
+    "author": "author4",
+    "age": "age8",
+    "shelf": "1",
+    "level": 4,
+    "genres": ["aventura"],
+    "status": "disponible"
+  }
+   {
+    "title": "title14",
+    "author": "author9",
+    "age": "age4",
+    "shelf": "J",
+    "level": 1,
+    "genres": ["aventura", "accion"],
     "status": "noDisponible"
   }
 ]
