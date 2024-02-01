@@ -5,6 +5,8 @@
     "age": "age1",
     "shelf": "A",
     "level": "A2",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["accion", "fantasia"],
     "status": "disponible"
   },
@@ -14,6 +16,8 @@
     "age": "age1",
     "shelf": "A",
     "level": "A4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["fantasia", "aventura"],
     "status": "noDisponible"
   },
@@ -23,6 +27,8 @@
     "age": "age1",
     "shelf": "B",
     "level": "B2",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["aventura", "accion"],
     "status": "disponible"
   },
@@ -32,6 +38,8 @@
     "age": "age4",
     "shelf": "B",
     "level": "B1",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["aventura"],
     "status": "disponible"
   },
@@ -41,6 +49,8 @@
     "age": "age4",
     "shelf": "C",
     "level": "C3",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -50,6 +60,8 @@
     "age": "age4",
     "shelf": "C",
     "level": "C4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["accion"],
     "status": "noDisponible"
   },
@@ -59,6 +71,8 @@
     "age": "age7",
     "shelf": "D",
     "level": "D2",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["accion"],
     "status": "disponible"
   },
@@ -68,6 +82,8 @@
     "age": "age7",
     "shelf": "D",
     "level": "D4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -77,6 +93,8 @@
     "age": "age8",
     "shelf": "E",
     "level": "E1",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["fantasia"],
     "status": "disponible"
   },
@@ -86,6 +104,8 @@
     "age": "age8",
     "shelf": "F",
     "level": "F4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["aventura"],
     "status": "noDisponible"
   },
@@ -95,6 +115,8 @@
     "age": "age8",
     "shelf": "G",
     "level": "G4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["accion", "fantasia"],
     "status": "disponible"
   },
@@ -104,6 +126,8 @@
     "age": "age7",
     "shelf": "H",
     "level": "H4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["fantasia"],
     "status": "noDisponible"
   },
@@ -113,6 +137,8 @@
     "age": "age8",
     "shelf": "I",
     "level": "I4",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["aventura"],
     "status": "disponible"
   },
@@ -122,6 +148,8 @@
     "age": "age4",
     "shelf": "J",
     "level": "J1",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
+    "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["aventura", "accion"],
     "status": "noDisponible"
   }
