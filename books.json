@@ -19,7 +19,7 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["fantasia", "aventura"],
-    "status": "noDisponible"
+    "status": "prestado"
   },
   {
     "title": "title3",
@@ -63,7 +63,7 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["accion"],
-    "status": "noDisponible"
+    "status": "prestado"
   },
   {
     "title": "title7",
@@ -74,7 +74,7 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2024/01/22/16/33/pelican-8525794_1280.jpg",
     "genres": ["accion"],
-    "status": "disponible"
+    "status": "prestado"
   },
   {
     "title": "title8",
@@ -107,7 +107,7 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["aventura"],
-    "status": "noDisponible"
+    "status": "prestado"
   },
    {
     "title": "title11",
@@ -129,7 +129,7 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["fantasia"],
-    "status": "noDisponible"
+    "status": "prestado"
   },
    {
     "title": "title13",
@@ -151,6 +151,6 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis voluptas porro ut explicabo fuga quo fugit recusandae repellat officiis similique sit omnis alias quidem exercitationem accusamus ab, assumendablanditiis eveniet?",
     "cover": "https://cdn.pixabay.com/photo/2022/11/06/20/13/woman-7574950_1280.jpg",
     "genres": ["aventura", "accion"],
-    "status": "noDisponible"
+    "status": "prestado"
   }
 ]
