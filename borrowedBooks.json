@@ -1,0 +1,62 @@
+[
+  {
+  "fullName": "maria",
+  "fullLastName": "iglesias",
+  "dni": 12345678,
+  "phoneNumber": 123456789,
+  "tmStart": "2024-02-15T17:00:00Z",
+  "tmEnd": "2024-04-06T00:00:00Z",
+  "address": "jr maria iglesias, 502",
+  "district": "Carabayllo",
+  "title": "La vida en las praderas",
+  "cover": "https://cdn.pixabay.com/photo/2021/06/02/09/27/sunset-6303992_1280.jpg"
+  },
+  {
+  "fullName": "jose",
+  "fullLastName": "pardo",
+  "dni": 12345678,
+  "phoneNumber": 123456789,
+  "tmStart": "2024-01-10T00:00:00Z",
+  "tmEnd": "2024-06-01T15:30:00Z",
+  "address": "jr jose pardo, 402",
+  "district": "Comas",
+  "title": "Conexiones Digitales",
+  "cover": "https://cdn.pixabay.com/photo/2023/06/18/23/41/camera-8073123_1280.jpg"
+  },
+  {
+  "fullName": "diego",
+  "fullLastName": "rosales",
+  "dni": 12345678,
+  "phoneNumber": 123456789,
+  "tmStart": "2024-02-11T20:30:00Z",
+  "tmEnd": "2024-04-01T01:30:00Z",
+  "address": "jr diego rosales 122",
+  "district": "san isidro",
+  "title": "El Juego de las Estrellas",
+  "cover": "https://cdn.pixabay.com/photo/2015/08/29/13/23/night-913046_1280.jpg"
+  },
+  {
+  "fullName": "juan",
+  "fullLastName": "ramirez",
+  "dni": 12345678,
+  "phoneNumber": 012345678,
+  "tmStart": "2024-02-18T20:01:00Z",
+  "tmEnd": "2024-03-32T23:37:00Z",
+  "address": "jr juan ramirez 401",
+  "district": "el agustino",
+  "title": "Suspiros limeños",
+  "cover": "https://es.cravingsjournal.com/wp-content/uploads/2018/07/suspiro-de-limen%CC%83a-1.jpg"
+  },
+   {
+  "fullName": "teodoro",
+  "fullLastName": "romero",
+  "dni": 12345678,
+  "phoneNumber": 012345678,
+  "tmStart": "2024-03-10T00:37:00Z",
+  "tmEnd": "2024-05-01T23:00:00Z",
+  "address": "jr teodoro romero 107",
+  "district": "pachacamac",
+  "title": "Bajo la Luna Olvidada",
+  "cover": "https://cdn.pixabay.com/photo/2017/09/22/23/58/roof-windows-2777582_1280.jpg"
+  }
+]
