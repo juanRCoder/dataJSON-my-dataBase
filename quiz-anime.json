@@ -1,0 +1,58 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "fácil",
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Quién es el personaje principal con cabello amarillo en el anime Naruto?",
+        "correct_answer": "Naruto",
+        "incorrect_answers": [
+            "Ten Ten",
+            "Sasuke",
+            "Kakashi"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "fácil",
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Cuál es el nombre del león de peluche en Bleach?",
+        "correct_answer": "Kon",
+        "incorrect_answers": [
+            "Jo",
+            "Urdiu",
+            "Chad"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "fácil",
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En Kill La Kill, ¿el arma de la protagonista principal es una katana?",
+        "correct_answer": "Falso",
+        "incorrect_answers": [
+            "Verdadero"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "dificil",
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Cuál es la canción tema de &quot;Neon Genesis Evangelion&quot;?",
+        "correct_answer": "A Cruel Angel's Thesis",
+        "incorrect_answers": [
+            "Stardust Crusaders",
+            "Requiem for a Dream",
+            "God Knows"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "dificil",
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En la película de 1988 &quot;Akira&quot;, ¿Tetsuo termina destruyendo Tokio?",
+        "correct_answer": "Verdadero",
+        "incorrect_answers": [
+            "Falso"
+        ]
+    }
+]
