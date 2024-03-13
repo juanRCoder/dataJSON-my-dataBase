@@ -1,0 +1,766 @@
+[
+    {
+        "id": 1,
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "El Studio Ghibli es un estudio de animación japonés responsable de las películas 'Niños lobo' y 'El niño y la bestia'.",
+        "correct_answer": "Falso",
+        "respuestas_incorrectas": [
+            "Verdadero"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Qué nombre se le da al personaje principal Chihiro en la película de 2001 'El viaje de Chihiro'?",
+        "correct_answer": "Sen (Mil)",
+        "respuestas_incorrectas": [
+            "Hyaku (Cien)",
+            "Ichiman (Diez mil)",
+            "Juu (Diez)"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Quién es la heroína principal del anime, Full Metal Panic!?",
+        "correct_answer": "Kaname Chidori",
+        "respuestas_incorrectas": [
+            "Teletha Testarossa",
+            "Melissa Mao",
+            "Kyoko Tokiwa"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Quién es el titán acorazado en 'Shingeki no Kyojin'?",
+        "correct_answer": "Reiner Braun",
+        "respuestas_incorrectas": [
+            "Armin Arlelt",
+            "Mikasa Ackermann",
+            "Eren Jaeger"
+        ]
+    },
+    {
+        "id": 5,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En 'Inuyasha', ¿qué están buscando los héroes?",
+        "correct_answer": "Fragmentos de joya",
+        "respuestas_incorrectas": [
+            "Bolas de dragón",
+            "Piedras de Rave",
+            "Piedras sagradas"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Quién es el autor de la serie de manga 'Astro Boy'?",
+        "correct_answer": "Osamu Tezuka",
+        "respuestas_incorrectas": [
+            "Mitsuteri Yokoyama",
+            "Takao Saito",
+            "Yoshihiro Tatsumi"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "Satella en 'Re:Zero' es la bruja de ¿qué?",
+        "correct_answer": "Envidia",
+        "respuestas_incorrectas": [
+            "Orgullo",
+            "Pereza",
+            "Ira"
+        ]
+    },
+    {
+        "id": 8,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿En qué año se emitió por primera vez 'Shingeki no Kyojin'?",
+        "correct_answer": "2013",
+        "respuestas_incorrectas": [
+            "2014",
+            "2012",
+            "2015"
+        ]
+    },
+    {
+        "id": 9,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuál es la edad de Ash Ketchum en Pokémon cuando comienza su viaje?",
+        "correct_answer": "10",
+        "respuestas_incorrectas": [
+            "11",
+            "12",
+            "9"
+        ]
+    },
+    {
+        "id": 10,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En la Señorita Kobayashi's Dragon Maid, ¿quién es la sirvienta de Kobayashi?",
+        "correct_answer": "Tohru",
+        "respuestas_incorrectas": [
+            "Lucoa",
+            "Kanna",
+            "Elma"
+        ]
+    },
+    {
+        "id": 11,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Qué Pokémon y sus evoluciones fueron prohibidos de aparecer en un papel principal después del Incidente del Episodio 38?",
+        "correct_answer": "La línea de Porygon",
+        "respuestas_incorrectas": [
+            "La línea de Pikachu",
+            "La línea de Elekid",
+            "La línea de Magby"
+        ]
+    },
+    {
+        "id": 12,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuál es el nombre del impostor de Junko Enoshima al principio de Danganronpa: Trigger Happy Havoc?",
+        "correct_answer": "Mukuro Ikusaba",
+        "respuestas_incorrectas": [
+            "Ryota Mitarai",
+            "Ultimate Imposter",
+            "Komaru Naegi"
+        ]
+    },
+    {
+        "id": 13,
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En el anime 'Toaru Kagaku no Railgun', los esper pueden alcanzar un máximo de nivel 6 en sus habilidades.",
+        "correct_answer": "Falso",
+        "respuestas_incorrectas": [
+            "Verdadero"
+        ]
+    },
+    {
+        "id": 14,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En 'Un cierto Railgun científico', ¿cuántas 'hermanas' tuvo que matar Accelerator para lograr el nivel 6 rumoreado?",
+        "correct_answer": "20,000",
+        "respuestas_incorrectas": [
+            "128",
+            "10,000",
+            "5,000"
+        ]
+    },
+    {
+        "id": 15,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En el anime 'My Hero Academia', ¿qué personaje se muestra con la habilidad de manipular la gravedad?",
+        "correct_answer": "Uraraka",
+        "respuestas_incorrectas": [
+            "Bakugo",
+            "Deku",
+            "Asui "
+        ]
+    },
+    {
+        "id": 16,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Qué anime presenta ampliamente música del género 'Eurobeat'?",
+        "correct_answer": "Initial D",
+        "respuestas_incorrectas": [
+            "Wangan Midnight",
+            "Kino no Tabi",
+            "Cowboy Bebop"
+        ]
+    },
+    {
+        "id": 17,
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "El anime 'Lucky Star' sigue la historia de una chica que no es consciente de que es Dios.",
+        "correct_answer": "Falso",
+        "respuestas_incorrectas": [
+            "Verdadero"
+        ]
+    },
+    {
+        "id": 18,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuál es el nombre de la Parte 5 de la Bizarre Adventure de JoJo?",
+        "correct_answer": "Vento Aureo",
+        "respuestas_incorrectas": [
+            "Vento Oreo",
+            "Vanto Aureo",
+            "Vento Eureo"
+        ]
+    },
+    {
+        "id": 19,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuántos 'JoJos' protagonistas hay en la serie 'Jojo's Bizarre Adventure'?",
+        "correct_answer": "8+",
+        "respuestas_incorrectas": [
+            "6+",
+            "4+",
+            "5+"
+        ]
+    },
+    {
+        "id": 20,
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En la película de 1988 'Akira', Tetsuo termina destruyendo Tokio.",
+        "correct_answer": "Verdadero",
+        "respuestas_incorrectas": [
+            "Falso"
+        ]
+    },
+    {
+        "id": 21,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuál es el nombre del stand de Funny Valentine en Jojo's Bizarre Adventure Part 7, Steel Ball Run?",
+        "correct_answer": "Acciones sucias hechas muy baratas",
+        "incorrect_answers": [
+            "Actos sucios realizados por un precio razonable",
+            "Guerra civil",
+            "Dios bendiga a los EE.UU"
+        ]
+    },
+    {
+        "id": 22,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En 'Fairy Tail', ¿cuál es el apodo de Natsu Dragneel?",
+        "correct_answer": "La Salamandra",
+        "incorrect_answers": [
+            "El cazador de dragones",
+            "El dragón",
+            "El demonio"
+        ]
+    },
+    {
+        "id": 23,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "Los dos personajes principales de 'No Game No Life', Sora y Shiro, ¿con qué nombre se llaman juntos?",
+        "correct_answer": "En blanco",
+        "incorrect_answers": [
+            "Inmanidad",
+            "Desabordo",
+            "Bestias de guerra"
+        ]
+    },
+    {
+        "id": 24,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En la película animada de 2012 'Niños lobo', ¿cómo se llaman los niños lobo?",
+        "correct_answer": "Ame y Yuki",
+        "incorrect_answers": [
+            "Hana y Yuki",
+            "Ame y Hana",
+            "Chuck y Ana"
+        ]
+    },
+    {
+        "id": 25,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cómo se llama el corgi en Cowboy Bebop?",
+        "correct_answer": "Einstein",
+        "incorrect_answers": [
+            "Edward",
+            "Rocket",
+            "Joel"
+        ]
+    },
+    {
+        "id": 26,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Qué estudio de animación produjo 'Gurren Lagann'?",
+        "correct_answer": "Gainax",
+        "incorrect_answers": [
+            "Animación de Kioto",
+            "Pierrot",
+            "Imágenes A-1"
+        ]
+    },
+    {
+        "id": 27,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿En 2013, la estrella del pop virtual Hatsune Miku tenía un patrocinio con qué cadena de pizzerías?",
+        "correct_answer": "Dominó",
+        "incorrect_answers": [
+            "Papa Johns",
+            "Pizza Hut",
+            "Sabarro's"
+        ]
+    },
+    {
+        "id": 28,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Quién fue el actor de doblaje en el doblaje al inglés de HOWL'S MOVING CASTLE (2004)?",
+        "correct_answer": "Christian Bale",
+        "incorrect_answers": [
+            "Matt Damon",
+            "Joseph Gordon-Levitt",
+            "Willem Dafoe"
+        ]
+    },
+    {
+        "id": 29,
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "En Chobits, Hideki encontró a Chii en su apartamento.",
+        "correct_answer": "Falso",
+        "incorrect_answers": [
+            "Verdadero"
+        ]
+    },
+    {
+        "id": 30,
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entretenimiento: anime y manga japonés",
+        "question": "¿Cuál fue el segundo Pokémon de Ash Ketchum?",
+        "correct_answer": "Oruga",
+        "incorrect_answers": [
+            "Charmander",
+            "Pikachu",
+            "Pidgey"
+        ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Cuál anime no dirigió Seiji Kishi?",
+    "correct_answer": "Another",
+    "incorrect_answers": [
+        "La humanidad ha declinado",
+        "Clase de asesinato",
+        "Danganronpa: La animación"
+    ],
+    "id": 31
+},
+{
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En Full Metal Panic!, ¿Los Susurrados son aquellos que son capaces de crear Tecnología Negra?",
+    "correct_answer": "Verdadero",
+    "incorrect_answers": [
+        "Falso"
+    ],
+    "id": 32
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿La heroína de 'La humanidad ha declinado' es mediadora entre humanos y qué?",
+    "correct_answer": "Hadas",
+    "incorrect_answers": [
+        "Elfos",
+        "La Tierra",
+        "Animales"
+    ],
+    "id": 33
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Little Witch Academia', ¿cuál es el alias de Shiny Chariot en la Academia Luna Nova?",
+    "correct_answer": "Ursula Callistis",
+    "incorrect_answers": [
+        "Croix Meridies",
+        "Miranda Holbrook",
+        "Anne Finnelan"
+    ],
+    "id": 34
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Cuándo se lanzó el primer episodio de Soul Eater?",
+    "correct_answer": "2008",
+    "incorrect_answers": [
+        "2003",
+        "2005",
+        "2011"
+    ],
+    "id": 35
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿El personaje Momonga de la serie 'Overlord' ordena a sus sirvientes que lo llamen con qué nombre?",
+    "correct_answer": "Ainz Ooal Gown",
+    "incorrect_answers": [
+        "Maestro",
+        "Yggdrasil",
+        "Kugane Maruyama"
+    ],
+    "id": 36
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En el anime 'Super Sonico', ¿cuál es la comida favorita de Super Sonico?",
+    "correct_answer": "Macarons",
+    "incorrect_answers": [
+        "Helado",
+        "Pizza",
+        "Papas fritas"
+    ],
+    "id": 37
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Puella Magi Madoka Magica', ¿cuál es el primer nombre del hermano menor de Madoka?",
+    "correct_answer": "Tatsuya",
+    "incorrect_answers": [
+        "Montoya",
+        "Tomohisa",
+        "Minato"
+    ],
+    "id": 38
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En Haikyuu!!, ¿quién no es miembro del VBC Karasuno?",
+    "correct_answer": "Shigeru Yahaba",
+    "incorrect_answers": [
+        "Tadashi Yamaguchi",
+        "Hisashi Kinoshita",
+        "Kazuhito Narita"
+    ],
+    "id": 39
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Qué personaje de JoJo's Bizarre Adventure posee el Stand llamado Silver Chariot?",
+    "correct_answer": "Jean Pierre Polnareff",
+    "incorrect_answers": [
+        "Noriaki Kakyoin",
+        "Hol Horse",
+        "Hermes Costello"
+    ],
+    "id": 40
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Cómo se conoce Ikki Kurogane al principio de 'Chivalry of a Failed Knight'?",
+    "correct_answer": "El Peor",
+    "incorrect_answers": [
+        "Otro",
+        "Blazer",
+        "Princesa"
+    ],
+    "id": 41
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Qué estudio de animación animó el anime de 2016 'Mob Psycho 100'?",
+    "correct_answer": "Bones",
+    "incorrect_answers": [
+        "A-1 Pictures",
+        "Shaft",
+        "Madhouse"
+    ],
+    "id": 42
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Qué estudio hizo Cowboy Bebop?",
+    "correct_answer": "Sunrise",
+    "incorrect_answers": [
+        "Bones",
+        "Madhouse",
+        "Pierriot"
+    ],
+    "id": 43
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Cuál es el nombre del dispositivo que permite energía infinita en el anime 'Dimension W'?",
+    "correct_answer": "Bobinas",
+    "incorrect_answers": [
+        "Cables",
+        "Coleccionistas",
+        "Tesla"
+    ],
+    "id": 44
+},
+{
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "La película animada 'El viaje de Chihiro' ganó el Premio de la Academia a la Mejor Película Animada en la 75ª edición de los Premios de la Academia en 2003.",
+    "correct_answer": "Verdadero",
+    "incorrect_answers": [
+        "Falso"
+    ],
+    "id": 45
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'JoJo's Bizarre Adventure: Stardust Crusaders', ¿cuál es el apellido del protagonista Jotaro?",
+    "correct_answer": "Kujo",
+    "incorrect_answers": [
+        "Cujoh",
+        "Joestar",
+        "Higashikata"
+    ],
+    "id": 46
+},
+{
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "El anime Attack on Titan fue dirigido por Tetsurō Araki, la misma persona que dirigió el anime Highschool of the Dead.",
+    "correct_answer": "Verdadero",
+    "incorrect_answers": [
+        "Falso"
+    ],
+    "id": 47
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En el doblaje en inglés de ADV del anime 'Ghost Stories', ¿qué personaje se presenta como cristiano pentecostal?",
+    "correct_answer": "Momoko Koigakubo",
+    "incorrect_answers": [
+        "Hajime Aoyama",
+        "Satsuki Miyanoshita",
+        "Mio Itai"
+    ],
+    "id": 48
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿De qué raza es el personaje Plum de 'No Game No Life'?",
+    "correct_answer": "Dhampir",
+    "incorrect_answers": [
+        "Flügel",
+        "Imanity",
+        "Seiren"
+    ],
+    "id": 49
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Cuál fue la razón para la prohibición del episodio 35 de la serie de anime 'Pokémon Original Series'?",
+    "correct_answer": "Uso de armas",
+    "incorrect_answers": [
+        "Imágenes parpadeantes",
+        "Jynx",
+        "Violencia extrema"
+    ],
+    "id": 50
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Quién es el protagonista principal de la quinta parte de 'JoJo's Bizarre Adventure'?",
+    "correct_answer": "Giorno Giovanna",
+    "incorrect_answers": [
+        "Guido Mista",
+        "Jonathan Joestar",
+        "Joey JoJo"
+    ],
+    "id": 51
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Quién da voz a 'Shou Suzuki' en el doblaje en inglés de 'Mob Psycho 100'?",
+    "correct_answer": "Casey Mongillo",
+    "incorrect_answers": [
+        "Ben Diskin",
+        "Chris Niosi",
+        "David Naughton"
+    ],
+    "id": 52
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Toriko', ¿cuál de los Reyes Celestiales siguientes tiene un sentido del oído mejorado?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+        "Coco",
+        "Sunny",
+        "Toriko"
+    ],
+    "id": 53
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Qué manga tiene más volúmenes tankouban?",
+    "correct_answer": "Golgo 13",
+    "incorrect_answers": [
+        "JoJo's Bizarre Adventure",
+        "Detective Conan",
+        "One Piece"
+    ],
+    "id": 54
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'JoJo's Bizarre Adventure', ¿quién dice 'Yare yare daze'?",
+    "correct_answer": "Jotaro Kujo",
+    "incorrect_answers": [
+        "Joseph Joestar",
+        "Jolyne Cujoh",
+        "Koichi Hirose"
+    ],
+    "id": 55
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En el anime 'Mr. Osomatsu', ¿cuántos hermanos tiene Osomatsu-san?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+        "6",
+        "7",
+        "4"
+    ],
+    "id": 56
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Qué grupo de música japonés se formó para producir la música temática del anime 'Guilty Crown'?",
+    "correct_answer": "Egoist",
+    "incorrect_answers": [
+        "Goose house",
+        "Babymetal",
+        "Garnidelia"
+    ],
+    "id": 57
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Black Lagoon', ¿de qué color es la corbata de Rock?",
+    "correct_answer": "Azul verdoso",
+    "incorrect_answers": [
+        "Carmesí",
+        "Marrón oscuro",
+        "Negro"
+    ],
+    "id": 58
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "¿Quién es el protagonista principal de la cuarta parte de 'JoJo's Bizarre Adventure'?",
+    "correct_answer": "Josuke Higashikata",
+    "incorrect_answers": [
+        "Yoshikage Kira",
+        "Koichi Hirose",
+        "Joey JoJo"
+    ],
+    "id": 59
+},
+{
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En la serie de anime de televisión de 2011, 'THE iDOLM@STER', ¿cuál era el nombre del conejo de peluche de Iori?",
+    "correct_answer": "Charles",
+    "incorrect_answers": [
+        "Bubsy",
+        "Kero",
+        "Usagi"
+    ],
+    "id": 60
+}
+]
