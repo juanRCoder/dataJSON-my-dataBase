@@ -904,8 +904,8 @@
     },
     {
         "id": 72,
-        "tipo": "hard",
-        "dificultad": "difícil",
+        "tipo": "multiple",
+        "dificultad": "hard",
         "categoría": "Entretenimiento: Anime y Manga Japonés",
         "pregunta": "¿Quién es el artista de manga de terror que hizo Uzumaki?",
         "respuesta_correcta": "Junji Ito",
