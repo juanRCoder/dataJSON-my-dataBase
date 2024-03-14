@@ -904,12 +904,12 @@
     },
     {
         "id": 72,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Quién es el artista de manga de terror que hizo Uzumaki?",
-        "respuesta_correcta": "Junji Ito",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Quién es el artista de manga de terror que hizo Uzumaki?",
+        "correct_answer": "Junji Ito",
+        "incorrect_answers": [
             "Kazuo Umezu",
             "Shintaro Kago",
             "Sui Ishida"
@@ -917,12 +917,12 @@
     },
     {
         "id": 73,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Qué estudio de animación animó 'Psycho Pass'?",
-        "respuesta_correcta": "Production I.G",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Qué estudio de animación animó 'Psycho Pass'?",
+        "correct_answer": "Production I.G",
+        "incorrect_answers": [
             "Kyoto Animation",
             "Shaft",
             "Trigger"
@@ -930,12 +930,12 @@
     },
     {
         "id": 74,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿En qué manga se originó la 'Chica 404' de 4chan?",
-        "respuesta_correcta": "Yotsuba&!",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿En qué manga se originó la 'Chica 404' de 4chan?",
+        "correct_answer": "Yotsuba&!",
+        "incorrect_answers": [
             "Azumanga Daioh",
             "Lucky Star",
             "Clover"
@@ -943,12 +943,12 @@
     },
     {
         "id": 75,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Quién fue el autor del manga Monster Hunter Orage?",
-        "respuesta_correcta": "Hiro Mashima",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Quién fue el autor del manga Monster Hunter Orage?",
+        "correct_answer": "Hiro Mashima",
+        "incorrect_answers": [
             "Shin Yamamoto",
             "Keiichi Hikami",
             "Hirohiko Araki"
@@ -956,12 +956,12 @@
     },
     {
         "id": 76,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿En qué año comenzó la serialización del manga 'Ping Pong'?",
-        "respuesta_correcta": "1996",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿En qué año comenzó la serialización del manga 'Ping Pong'?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
             "2014",
             "2010",
             "2003"
@@ -969,12 +969,12 @@
     },
     {
         "id": 77,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "En 'One Piece', ¿qué significa 'el Rey Pirata' para el capitán de los Piratas del Sombrero de Paja?",
-        "respuesta_correcta": "Libertad",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En 'One Piece', ¿qué significa 'el Rey Pirata' para el capitán de los Piratas del Sombrero de Paja?",
+        "correct_answer": "Libertad",
+        "incorrect_answers": [
             "Promesa",
             "Aventura",
             "Amistad"
@@ -982,12 +982,12 @@
     },
     {
         "id": 78,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Qué canción era el indicativo para la estación de radio KWFM de Stefan Verdemann en el 'Monster' de Urasawa Naoki?",
-        "respuesta_correcta": "Over the Rainbow",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Qué canción era el indicativo para la estación de radio KWFM de Stefan Verdemann en el 'Monster' de Urasawa Naoki?",
+        "correct_answer": "Over the Rainbow",
+        "incorrect_answers": [
             "What a Wonderful World",
             "When You Wish Upon A Star",
             "Singing In The Rain"
@@ -995,25 +995,25 @@
     },
     {
         "id": 79,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "En el anime de Overlord, ¿quién creó a Cocytus?",
-        "respuesta_correcta": "Guerrero Takemikazuchi",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En el anime de Overlord, ¿quién creó a Cocytus?",
+        "correct_answer": "Guerrero Takemikazuchi",
+        "incorrect_answers": [
             "Peroroncino",
             "Ulbert Alain Odle",
             "Bukubukuchagama"
         ]
     },
-    {
+     {
         "id": 80,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿En qué año se lanzó por primera vez 'JoJo's Bizarre Adventure: Phantom Blood'?",
-        "respuesta_correcta": "1987",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿En qué año se lanzó por primera vez 'JoJo's Bizarre Adventure: Phantom Blood'?",
+        "correct_answer": "1987",
+        "incorrect_answers": [
             "2013",
             "1983",
             "1995"
@@ -1021,12 +1021,12 @@
     },
     {
         "id": 81,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "En el anime Full Metal Panic!, ¿quién es la mejor amiga de Kaname?",
-        "respuesta_correcta": "Kyoko Tokiwa",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En el anime Full Metal Panic!, ¿quién es la mejor amiga de Kaname?",
+        "correct_answer": "Kyoko Tokiwa",
+        "incorrect_answers": [
             "Melissa Mao",
             "Ren Mikihara",
             "Teletha 'Tessa' Testarossa"
@@ -1034,12 +1034,12 @@
     },
     {
         "id": 82,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Quién fue el autor del manga Uzumaki?",
-        "respuesta_correcta": "Junji Ito",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Quién fue el autor del manga Uzumaki?",
+        "correct_answer": "Junji Ito",
+        "incorrect_answers": [
             "Noboru Takahashi",
             "Akira Toriyama",
             "Masashi Kishimoto"
@@ -1047,12 +1047,12 @@
     },
     {
         "id": 83,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿En qué año comenzó el manga 'To Love-Ru'?",
-        "respuesta_correcta": "2006",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿En qué año comenzó el manga 'To Love-Ru'?",
+        "correct_answer": "2006",
+        "incorrect_answers": [
             "2007",
             "2004",
             "2005"
@@ -1060,12 +1060,12 @@
     },
     {
         "id": 84,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Cuál de estos personajes es de 'Legendz: Tale of the Dragon Kings'?",
-        "respuesta_correcta": "Shiron",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Cuál de estos personajes es de 'Legendz: Tale of the Dragon Kings'?",
+        "correct_answer": "Shiron",
+        "incorrect_answers": [
             "Jack",
             "Axia",
             "Drum"
@@ -1073,12 +1073,12 @@
     },
     {
         "id": 85,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Qué estudio animó Afro Samurai?",
-        "respuesta_correcta": "Gonzo",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Qué estudio animó Afro Samurai?",
+        "correct_answer": "Gonzo",
+        "incorrect_answers": [
             "Kyoto Animation",
             "Xebec",
             "Production I.G"
@@ -1086,12 +1086,12 @@
     },
     {
         "id": 86,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿En cuál de los siguientes países no tiene lugar 'JoJo's Bizarre Adventure: Stardust Crusaders'?",
-        "respuesta_correcta": "Filipinas",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿En cuál de los siguientes países no tiene lugar 'JoJo's Bizarre Adventure: Stardust Crusaders'?",
+        "correct_answer": "Filipinas",
+        "incorrect_answers": [
             "India",
             "Pakistán",
             "Egipto"
@@ -1099,12 +1099,12 @@
     },
     {
         "id": 87,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Cuál es la última línea pronunciada en la película de anime 'The End of Evangelion'?",
-        "respuesta_correcta": "'¡Qué asco!'",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Cuál es la última línea pronunciada en la película de anime 'The End of Evangelion'?",
+        "correct_answer": "'¡Qué asco!'",
+        "incorrect_answers": [
             "'¡Idiota, no te dejaré que me mates!'",
             "'Nada.'",
             "'Maldito seas, Shinji.'"
@@ -1112,23 +1112,23 @@
     },
     {
         "id": 88,
-        "tipo": "booleano",
+        "type": "boolean",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "En la serie 'To Love-Ru', Peke es considerada un robot femenino.",
-        "respuesta_correcta": "Verdadero",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En la serie 'To Love-Ru', Peke es considerada un robot femenino.",
+        "correct_answer": "Verdadero",
+        "incorrect_answers": [
             "Falso"
         ]
     },
     {
         "id": 89,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "En 'Jewelpet Sunshine', ¿cuál es la canción que suena cuando Kanon y sus amigos escapan de la cárcel?",
-        "respuesta_correcta": "I Don't Want to Miss a Thing",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "En 'Jewelpet Sunshine', ¿cuál es la canción que suena cuando Kanon y sus amigos escapan de la cárcel?",
+        "correct_answer": "I Don't Want to Miss a Thing",
+        "incorrect_answers": [
             "Eye Of The Tiger",
             "Born to be Wild",
             "Ruby Ring"
@@ -1136,12 +1136,12 @@
     },
     {
         "id": 90,
-        "tipo": "multiple",
+        "type": "multiple",
         "difficulty": "hard",
-        "categoría": "Entretenimiento: Anime y Manga Japonés",
-        "pregunta": "¿Qué estudio de animación produjo la adaptación al anime de 'xxxHolic'?",
-        "respuesta_correcta": "Production I.G",
-        "respuestas_incorrectas": [
+        "category": "Entretenimiento: Anime y Manga Japonés",
+        "question": "¿Qué estudio de animación produjo la adaptación al anime de 'xxxHolic'?",
+        "correct_answer": "Production I.G",
+        "incorrect_answers": [
             "Sunrise",
             "Xebec",
             "Kyoto Animation"
