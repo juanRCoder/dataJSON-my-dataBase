@@ -762,5 +762,389 @@
         "Usagi"
     ],
     "id": 60
-}
+},
+    {
+        "id": 61,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué personaje de 'JoJo's Bizarre Adventure' NO hace referencia a una banda, artista o canción anterior a 1980?",
+        "respuesta_correcta": "Giorno Giovanna",
+        "respuestas_incorrectas": [
+            "Josuke Higashikata",
+            "Jolyne Cujoh",
+            "Johnny Joestar"
+        ]
+    },
+    {
+        "id": 62,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué estudio de animación produjo 'Sword Art Online'?",
+        "respuesta_correcta": "A-1 Pictures",
+        "respuestas_incorrectas": [
+            "Production I.G",
+            "Silver Link",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "id": 63,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En 'Hunter x Hunter', ¿por qué son conocidos los miembros de la familia de Killua?",
+        "respuesta_correcta": "Asesinos",
+        "respuestas_incorrectas": [
+            "Bandidos",
+            "Cazadores",
+            "Ninjas"
+        ]
+    },
+    {
+        "id": 64,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En el primer episodio de Yu-Gi-Oh: Duel Monsters, ¿qué libro está leyendo Seto Kaiba en la Escuela Secundaria Domino?",
+        "respuesta_correcta": "Así Habló Zaratustra",
+        "respuestas_incorrectas": [
+            "Más Allá del Bien y del Mal",
+            "La República",
+            "Meditaciones"
+        ]
+    },
+    {
+        "id": 65,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En 'One Piece', ¿quién confirma la existencia del tesoro legendario, One Piece?",
+        "respuesta_correcta": "Edward 'Barbablanca' Newgate",
+        "respuestas_incorrectas": [
+            "Ex Almirante de la Flota de la Marina, Sengoku",
+            "Rey Pirata Gol D Roger",
+            "Silvers Rayleigh"
+        ]
+    },
+    {
+        "id": 66,
+        "tipo": "booleano",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "El Druida es una clase de mago en 'Log Horizon'.",
+        "respuesta_correcta": "Falso",
+        "respuestas_incorrectas": [
+            "Verdadero"
+        ]
+    },
+    {
+        "id": 67,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Quién fue el director de la película de anime de 1988 'Grave of the Fireflies'?",
+        "respuesta_correcta": "Isao Takahata",
+        "respuestas_incorrectas": [
+            "Hayao Miyazaki",
+            "Satoshi Kon",
+            "Sunao Katabuchi"
+        ]
+    },
+    {
+        "id": 68,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué estudio de animación animó 'To Love-Ru'?",
+        "respuesta_correcta": "Xebec",
+        "respuestas_incorrectas": [
+            "Trigger",
+            "Sunrise",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "id": 69,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Cuál es la subclase de Akatsuki en 'Log Horizon'?",
+        "respuesta_correcta": "Rastreador",
+        "respuestas_incorrectas": [
+            "Asesino",
+            "Escriba",
+            "Aprendiz"
+        ]
+    },
+    {
+        "id": 70,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En el anime Initial D, ¿cómo describe Takumi Fujiwara un derrape?",
+        "respuesta_correcta": "'. . . los neumáticos delanteros se deslizan para que el auto no enfrente hacia adentro'",
+        "respuestas_incorrectas": [
+            "'. . . las ruedas pierden tracción, haciendo que el auto se deslice de lado'",
+            "'. . . el auto sobrevira a través de una curva, haciéndolo girar más rápido'",
+            "'. . . se gira mucho'"
+        ]
+    },
+    {
+        "id": 71,
+        "tipo": "booleano",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "A lo largo de toda la serie de 'Dragon Ball Z', Goku solo mata a dos personajes: un minijefe llamado Yakon y Kid Buu.",
+        "respuesta_correcta": "Verdadero",
+        "respuestas_incorrectas": [
+            "Falso"
+        ]
+    },
+    {
+        "id": 72,
+        "tipo": "hard",
+        "dificultad": "difícil",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Quién es el artista de manga de terror que hizo Uzumaki?",
+        "respuesta_correcta": "Junji Ito",
+        "respuestas_incorrectas": [
+            "Kazuo Umezu",
+            "Shintaro Kago",
+            "Sui Ishida"
+        ]
+    },
+    {
+        "id": 73,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué estudio de animación animó 'Psycho Pass'?",
+        "respuesta_correcta": "Production I.G",
+        "respuestas_incorrectas": [
+            "Kyoto Animation",
+            "Shaft",
+            "Trigger"
+        ]
+    },
+    {
+        "id": 74,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿En qué manga se originó la 'Chica 404' de 4chan?",
+        "respuesta_correcta": "Yotsuba&!",
+        "respuestas_incorrectas": [
+            "Azumanga Daioh",
+            "Lucky Star",
+            "Clover"
+        ]
+    },
+    {
+        "id": 75,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Quién fue el autor del manga Monster Hunter Orage?",
+        "respuesta_correcta": "Hiro Mashima",
+        "respuestas_incorrectas": [
+            "Shin Yamamoto",
+            "Keiichi Hikami",
+            "Hirohiko Araki"
+        ]
+    },
+    {
+        "id": 76,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿En qué año comenzó la serialización del manga 'Ping Pong'?",
+        "respuesta_correcta": "1996",
+        "respuestas_incorrectas": [
+            "2014",
+            "2010",
+            "2003"
+        ]
+    },
+    {
+        "id": 77,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En 'One Piece', ¿qué significa 'el Rey Pirata' para el capitán de los Piratas del Sombrero de Paja?",
+        "respuesta_correcta": "Libertad",
+        "respuestas_incorrectas": [
+            "Promesa",
+            "Aventura",
+            "Amistad"
+        ]
+    },
+    {
+        "id": 78,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué canción era el indicativo para la estación de radio KWFM de Stefan Verdemann en el 'Monster' de Urasawa Naoki?",
+        "respuesta_correcta": "Over the Rainbow",
+        "respuestas_incorrectas": [
+            "What a Wonderful World",
+            "When You Wish Upon A Star",
+            "Singing In The Rain"
+        ]
+    },
+    {
+        "id": 79,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En el anime de Overlord, ¿quién creó a Cocytus?",
+        "respuesta_correcta": "Guerrero Takemikazuchi",
+        "respuestas_incorrectas": [
+            "Peroroncino",
+            "Ulbert Alain Odle",
+            "Bukubukuchagama"
+        ]
+    },
+    {
+        "id": 80,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿En qué año se lanzó por primera vez 'JoJo's Bizarre Adventure: Phantom Blood'?",
+        "respuesta_correcta": "1987",
+        "respuestas_incorrectas": [
+            "2013",
+            "1983",
+            "1995"
+        ]
+    },
+    {
+        "id": 81,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En el anime Full Metal Panic!, ¿quién es la mejor amiga de Kaname?",
+        "respuesta_correcta": "Kyoko Tokiwa",
+        "respuestas_incorrectas": [
+            "Melissa Mao",
+            "Ren Mikihara",
+            "Teletha 'Tessa' Testarossa"
+        ]
+    },
+    {
+        "id": 82,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Quién fue el autor del manga Uzumaki?",
+        "respuesta_correcta": "Junji Ito",
+        "respuestas_incorrectas": [
+            "Noboru Takahashi",
+            "Akira Toriyama",
+            "Masashi Kishimoto"
+        ]
+    },
+    {
+        "id": 83,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿En qué año comenzó el manga 'To Love-Ru'?",
+        "respuesta_correcta": "2006",
+        "respuestas_incorrectas": [
+            "2007",
+            "2004",
+            "2005"
+        ]
+    },
+    {
+        "id": 84,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Cuál de estos personajes es de 'Legendz: Tale of the Dragon Kings'?",
+        "respuesta_correcta": "Shiron",
+        "respuestas_incorrectas": [
+            "Jack",
+            "Axia",
+            "Drum"
+        ]
+    },
+    {
+        "id": 85,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué estudio animó Afro Samurai?",
+        "respuesta_correcta": "Gonzo",
+        "respuestas_incorrectas": [
+            "Kyoto Animation",
+            "Xebec",
+            "Production I.G"
+        ]
+    },
+    {
+        "id": 86,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿En cuál de los siguientes países no tiene lugar 'JoJo's Bizarre Adventure: Stardust Crusaders'?",
+        "respuesta_correcta": "Filipinas",
+        "respuestas_incorrectas": [
+            "India",
+            "Pakistán",
+            "Egipto"
+        ]
+    },
+    {
+        "id": 87,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Cuál es la última línea pronunciada en la película de anime 'The End of Evangelion'?",
+        "respuesta_correcta": "'¡Qué asco!'",
+        "respuestas_incorrectas": [
+            "'¡Idiota, no te dejaré que me mates!'",
+            "'Nada.'",
+            "'Maldito seas, Shinji.'"
+        ]
+    },
+    {
+        "id": 88,
+        "tipo": "booleano",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En la serie 'To Love-Ru', Peke es considerada un robot femenino.",
+        "respuesta_correcta": "Verdadero",
+        "respuestas_incorrectas": [
+            "Falso"
+        ]
+    },
+    {
+        "id": 89,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "En 'Jewelpet Sunshine', ¿cuál es la canción que suena cuando Kanon y sus amigos escapan de la cárcel?",
+        "respuesta_correcta": "I Don't Want to Miss a Thing",
+        "respuestas_incorrectas": [
+            "Eye Of The Tiger",
+            "Born to be Wild",
+            "Ruby Ring"
+        ]
+    },
+    {
+        "id": 90,
+        "tipo": "multiple",
+        "dificultad": "hard",
+        "categoría": "Entretenimiento: Anime y Manga Japonés",
+        "pregunta": "¿Qué estudio de animación produjo la adaptación al anime de 'xxxHolic'?",
+        "respuesta_correcta": "Production I.G",
+        "respuestas_incorrectas": [
+            "Sunrise",
+            "Xebec",
+            "Kyoto Animation"
+        ]
+    }
 ]
