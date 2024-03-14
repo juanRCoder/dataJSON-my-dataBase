@@ -67,12 +67,12 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Quién es el autor de la serie de manga 'Astro Boy'?",
-        "correct_answer": "Osamu Tezuka",
+        "question": "¿Cuál es el nombre del ninja protagonista en Naruto?",
+        "correct_answer": "Naruto",
         "incorrect_answers": [
-            "Mitsuteri Yokoyama",
-            "Takao Saito",
-            "Yoshihiro Tatsumi"
+            "Sasuke",
+            "Goku",
+            "Luffy"
         ]
     },
     {
@@ -127,19 +127,19 @@
             "Elma"
         ]
     },
-    {
-        "id": 11,
-        "type": "multiple",
-        "difficulty": "easy",
-        "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Qué Pokémon y sus evoluciones fueron prohibidos de aparecer en un papel principal después del Incidente del Episodio 38?",
-        "correct_answer": "La línea de Porygon",
-        "incorrect_answers": [
-            "La línea de Pikachu",
-            "La línea de Elekid",
-            "La línea de Magby"
-        ]
-    },
+   {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Shuumatsu no Valkyrie', ¿quién es el primer combatiente humano elegido para enfrentarse a los dioses en el ragnarock?",
+    "correct_answer": "Kojiro Sasaki",
+    "incorrect_answers": [
+        "Adam",
+        "Jack el Destripador",
+        "Nikola Tesla"
+    ]
+},
     {
         "id": 12,
         "type": "multiple",
@@ -169,12 +169,12 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "Entretenimiento: anime y manga japonés",
-        "question": "En 'Un cierto Railgun científico', ¿cuántas 'hermanas' tuvo que matar Accelerator para lograr el nivel 6 rumoreado?",
-        "correct_answer": "20,000",
+        "question": "¿Quién es el autor del manga Death Note?",
+        "correct_answer": "Tsugumi Ohba",
         "incorrect_answers": [
-            "128",
-            "10,000",
-            "5,000"
+            "Masashi Kishimoto",
+            "Tite Kubo",
+            "Hajime Isayama"
         ]
     },
     {
@@ -195,12 +195,12 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Qué anime presenta ampliamente música del género 'Eurobeat'?",
-        "correct_answer": "Initial D",
+        "question": "¿Cuál es el nombre del protagonista en 'Ghost in the Shell'?",
+        "correct_answer": "Motoko Kusanagi",
         "incorrect_answers": [
-            "Wangan Midnight",
-            "Kino no Tabi",
-            "Cowboy Bebop"
+            "Tetsuo Shima",
+            "Light Yagami",
+            "Shinji Ikari"
         ]
     },
     {
@@ -214,19 +214,19 @@
             "Verdadero"
         ]
     },
-    {
-        "id": 18,
-        "type": "multiple",
-        "difficulty": "easy",
-        "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Cuál es el nombre de la Parte 5 de la Bizarre Adventure de JoJo?",
-        "correct_answer": "Vento Aureo",
-        "incorrect_answers": [
-            "Vento Oreo",
-            "Vanto Aureo",
-            "Vento Eureo"
-        ]
-    },
+ {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Gantz', ¿qué objeto misterioso aparece en la habitación de Kei Kurono y Masaru Kato después de que mueren atropellados por un tren?",
+    "correct_answer": "Una esfera negra",
+    "incorrect_answers": [
+        "Una llave",
+        "Un teléfono móvil",
+        "Una pistola"
+    ]
+},
     {
         "id": 19,
         "type": "multiple",
@@ -256,12 +256,12 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Cuál es el nombre del stand de Funny Valentine en Jojo's Bizarre Adventure Part 7, Steel Ball Run?",
-        "correct_answer": "Acciones sucias hechas muy baratas",
+        "question": "En el manga 'Naruto', ¿cuál es el apellido de Sakura?",
+        "correct_answer": "Uzumaki",
         "incorrect_answers": [
-            "Actos sucios realizados por un precio razonable",
-            "Guerra civil",
-            "Dios bendiga a los EE.UU"
+            "Haruno",
+            "Hyuga",
+            "Nara"
         ]
     },
     {
@@ -316,19 +316,19 @@
             "Joel"
         ]
     },
-    {
-        "id": 26,
-        "type": "multiple",
-        "difficulty": "easy",
-        "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Qué estudio de animación produjo 'Gurren Lagann'?",
-        "correct_answer": "Gainax",
-        "incorrect_answers": [
-            "Animación de Kioto",
-            "Pierrot",
-            "Imágenes A-1"
-        ]
-    },
+ {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Yuru Camp', ¿cuál es el nombre del personaje principal que disfruta de acampar al aire libre?",
+    "correct_answer": "Rin Shima",
+    "incorrect_answers": [
+        "Nadeshiko Kagamihara",
+        "Chiaki Oogaki",
+        "Aoi Inuyama"
+    ]
+}
     {
         "id": 27,
         "type": "multiple",
@@ -347,12 +347,12 @@
         "type": "multiple",
         "difficulty": "easy",
         "category": "Entretenimiento: anime y manga japonés",
-        "question": "¿Quién fue el actor de doblaje en el doblaje al inglés de HOWL'S MOVING CASTLE (2004)?",
-        "correct_answer": "Christian Bale",
+        "question": "¿Qué habilidad tiene el personaje principal en 'My Hero Academia'?",
+        "correct_answer": "Poderes de absorción",
         "incorrect_answers": [
-            "Matt Damon",
-            "Joseph Gordon-Levitt",
-            "Willem Dafoe"
+            "Control del agua",
+            "Poderes de fuego",
+            "Manipulación de sombras"
         ]
     },
     {
@@ -404,56 +404,56 @@
     "id": 32
 },
 {
+    "id": 33,
     "type": "multiple",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿La heroína de 'La humanidad ha declinado' es mediadora entre humanos y qué?",
-    "correct_answer": "Hadas",
+    "question": "En 'Demon Slayer', ¿cuál es el nombre del demonio superior que es responsable de la transformación de Nezuko Kamado en demonio?",
+    "correct_answer": "Muzan Kibutsuji",
     "incorrect_answers": [
-        "Elfos",
-        "La Tierra",
-        "Animales"
-    ],
-    "id": 33
+        "Akaza",
+        "Doma",
+        "Kokushibo"
+    ]
+},
+{
+    "id": 34,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Demon Slayer', ¿cuál es el nombre del pilar del Cuerpo de Cazadores de Demonios que se especializa en el uso del aliento de agua?",
+    "correct_answer": "Giyu Tomioka",
+    "incorrect_answers": [
+        "Muichiro Tokito",
+        "Shinobu Kocho",
+        "Sanemi Shinazugawa"
+    ]
 },
 {
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En 'Little Witch Academia', ¿cuál es el alias de Shiny Chariot en la Academia Luna Nova?",
-    "correct_answer": "Ursula Callistis",
+    "question": "¿En qué ciudad se desarrolla la trama principal de 'Demon Slayer'?",
+    "correct_answer": "Asakusa",
     "incorrect_answers": [
-        "Croix Meridies",
-        "Miranda Holbrook",
-        "Anne Finnelan"
-    ],
-    "id": 34
-},
-{
-    "type": "multiple",
-    "difficulty": "medium",
-    "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Cuándo se lanzó el primer episodio de Soul Eater?",
-    "correct_answer": "2008",
-    "incorrect_answers": [
-        "2003",
-        "2005",
-        "2011"
+        "Tokio",
+        "Kioto",
+        "Edo"
     ],
     "id": 35
 },
 {
+    "id": 36,
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿El personaje Momonga de la serie 'Overlord' ordena a sus sirvientes que lo llamen con qué nombre?",
+    "question": "¿Cuál es el nombre del gremio al que pertenece Momonga, el protagonista de 'Overlord', en el juego Yggdrasil?",
     "correct_answer": "Ainz Ooal Gown",
     "incorrect_answers": [
-        "Maestro",
-        "Yggdrasil",
-        "Kugane Maruyama"
-    ],
-    "id": 36
+        "Darkness Knights",
+        "The Nine's Own Goal",
+        "Black Scripture"
+    ]
 },
 {
     "type": "multiple",
@@ -472,12 +472,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En 'Puella Magi Madoka Magica', ¿cuál es el primer nombre del hermano menor de Madoka?",
-    "correct_answer": "Tatsuya",
+    "question": "En 'Mob Psycho 100', ¿qué tipo de habilidad psíquica tiene Mob?",
+    "correct_answer": "Explosión psíquica",
     "incorrect_answers": [
-        "Montoya",
-        "Tomohisa",
-        "Minato"
+        "Telequinesis",
+        "Exorcismo",
+        "Telepatía"
     ],
     "id": 38
 },
@@ -485,27 +485,27 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En Haikyuu!!, ¿quién no es miembro del VBC Karasuno?",
-    "correct_answer": "Shigeru Yahaba",
+    "question": "En Tokyo Ghoul, ¿qué tipo de criatura es un 'ghoul'?",
+    "correct_answer": "Humano mutado",
     "incorrect_answers": [
-        "Tadashi Yamaguchi",
-        "Hisashi Kinoshita",
-        "Kazuhito Narita"
+        "Vampiro",
+        "Zombi",
+        "Demonio"
     ],
     "id": 39
 },
 {
+    "id": 40,
     "type": "multiple",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Qué personaje de JoJo's Bizarre Adventure posee el Stand llamado Silver Chariot?",
-    "correct_answer": "Jean Pierre Polnareff",
+    "question": "En 'Tokyo Revengers', ¿cuál es el nombre del líder de la pandilla Tokyo Manji Kai en el pasado?",
+    "correct_answer": "Mikey Sano",
     "incorrect_answers": [
-        "Noriaki Kakyoin",
-        "Hol Horse",
-        "Hermes Costello"
-    ],
-    "id": 40
+        "Takemichi Hanagaki",
+        "Naoto Tachibana",
+        "Ken Wakui"
+    ]
 },
 {
     "type": "multiple",
@@ -598,12 +598,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En el doblaje en inglés de ADV del anime 'Ghost Stories', ¿qué personaje se presenta como cristiano pentecostal?",
-    "correct_answer": "Momoko Koigakubo",
+    "question": "En el anime 'Death Note', ¿cuál es el nombre del detective que persigue a Kira?",
+    "correct_answer": "L Lawliet",
     "incorrect_answers": [
-        "Hajime Aoyama",
-        "Satsuki Miyanoshita",
-        "Mio Itai"
+        "Light Yagami",
+        "Near",
+        "Mello"
     ],
     "id": 48
 },
@@ -637,12 +637,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Quién es el protagonista principal de la quinta parte de 'JoJo's Bizarre Adventure'?",
-    "correct_answer": "Giorno Giovanna",
+    "question": "¿cuál es el nombre de la fruta que come Luffy, que le otorga la habilidad de estirar su cuerpo como goma?",
+    "correct_answer": "Gomu Gomu",
     "incorrect_answers": [
-        "Guido Mista",
-        "Jonathan Joestar",
-        "Joey JoJo"
+        "Pika Pika",
+        "Hito Hito",
+        "Goro Goro"
     ],
     "id": 51
 },
@@ -650,12 +650,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Quién da voz a 'Shou Suzuki' en el doblaje en inglés de 'Mob Psycho 100'?",
-    "correct_answer": "Casey Mongillo",
+    "question": "¿cuál es el nombre del mentor de Naruto que lo entrena para convertirse en un ninja más fuerte?",
+    "correct_answer": "Jiraiya",
     "incorrect_answers": [
-        "Ben Diskin",
-        "Chris Niosi",
-        "David Naughton"
+        "Kakashi Hatake",
+        "Orochimaru",
+        "Tsunade"
     ],
     "id": 52
 },
@@ -676,12 +676,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Qué manga tiene más volúmenes tankouban?",
-    "correct_answer": "Golgo 13",
+    "question": "¿Cuál es el nombre del protagonista en el manga 'Bleach'?",
+    "correct_answer": "Ichigo Kurosaki",
     "incorrect_answers": [
-        "JoJo's Bizarre Adventure",
-        "Detective Conan",
-        "One Piece"
+        "Rukia Kuchiki",
+        "Uryu Ishida",
+        "Renji Abarai"
     ],
     "id": 54
 },
@@ -689,12 +689,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En 'JoJo's Bizarre Adventure', ¿quién dice 'Yare yare daze'?",
-    "correct_answer": "Jotaro Kujo",
+    "question": "¿Cuál es el nombre del mundo virtual en el manga 'Sword Art Online'?",
+    "correct_answer": "Aincrad",
     "incorrect_answers": [
-        "Joseph Joestar",
-        "Jolyne Cujoh",
-        "Koichi Hirose"
+        "Alfheim",
+        "Gun Gale Online",
+        "Underworld"
     ],
     "id": 55
 },
@@ -712,28 +712,28 @@
     "id": 56
 },
 {
+    "id": 57,
     "type": "multiple",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Qué grupo de música japonés se formó para producir la música temática del anime 'Guilty Crown'?",
-    "correct_answer": "Egoist",
+    "question": "En 'Guilty Crown', ¿cuál es el nombre del virus mortal que afecta a la población y da poderes especiales a ciertas personas?",
+    "correct_answer": "Apocalipsis",
     "incorrect_answers": [
-        "Goose house",
-        "Babymetal",
-        "Garnidelia"
-    ],
-    "id": 57
-},
+        "Endemic",
+        "Epidemia",
+        "Crisis"
+    ]
+}
 {
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En 'Black Lagoon', ¿de qué color es la corbata de Rock?",
-    "correct_answer": "Azul verdoso",
+    "question": "En Tate no Yuusha no Nariagari, ¿qué objeto obtiene Naofumi que lo ayuda en su viaje?",
+    "correct_answer": "Un escudo mágico",
     "incorrect_answers": [
-        "Carmesí",
-        "Marrón oscuro",
-        "Negro"
+        "Un espada legendaria",
+        "Un amuleto de protección",
+        "Una armadura divina"
     ],
     "id": 58
 },
@@ -741,12 +741,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "¿Quién es el protagonista principal de la cuarta parte de 'JoJo's Bizarre Adventure'?",
-    "correct_answer": "Josuke Higashikata",
+    "question": "En Arifureta, ¿cuál es el nombre del compañero de Hajime que se convierte en un poderoso mago?",
+    "correct_answer": "Yue",
     "incorrect_answers": [
-        "Yoshikage Kira",
-        "Koichi Hirose",
-        "Joey JoJo"
+        "Shea",
+        "Kaori",
+        "Tio"
     ],
     "id": 59
 },
@@ -754,12 +754,12 @@
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
-    "question": "En la serie de anime de televisión de 2011, 'THE iDOLM@STER', ¿cuál era el nombre del conejo de peluche de Iori?",
-    "correct_answer": "Charles",
+    "question": "¿cuál es el nombre del creador del juego Sword Art Online?",
+    "correct_answer": "Akihiko Kayaba",
     "incorrect_answers": [
-        "Bubsy",
-        "Kero",
-        "Usagi"
+        "Nobuyuki Sugou",
+        "Seijirou Kikuoka",
+        "houichi Shinkawa"
     ],
     "id": 60
 },
@@ -768,12 +768,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Qué personaje de 'JoJo's Bizarre Adventure' NO hace referencia a una banda, artista o canción anterior a 1980?",
-        "correct_answer": "Giorno Giovanna",
+        "question": "En KonoSuba, ¿cuál es el apellido completo de Darkness?",
+        "correct_answer": "Lalatina Dustiness",
         "incorrect_answers": [
-            "Josuke Higashikata",
-            "Jolyne Cujoh",
-            "Johnny Joestar"
+            "Dustiness Ford",
+            "Dustiness Evergarden",
+            "Aqua Dustinessr"
         ]
     },
     {
@@ -844,12 +844,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Quién fue el director de la película de anime de 1988 'Grave of the Fireflies'?",
-        "correct_answer": "Isao Takahata",
+        "question": "En 'KonoSuba', ¿cuál es el nombre completo del mago que sigue a Kazuma y su grupo?",
+        "correct_answer": "Vanir von Zell",
         "incorrect_answers": [
-            "Hayao Miyazaki",
-            "Satoshi Kon",
-            "Sunao Katabuchi"
+            "Wiz Dolittle",
+            "Yunyun Yunan",
+            "Megumin Crimson"
         ]
     },
     {
@@ -883,12 +883,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "En el anime Initial D, ¿cómo describe Takumi Fujiwara un derrape?",
-        "correct_answer": "'. . . los neumáticos delanteros se deslizan para que el auto no enfrente hacia adentro'",
+        "question": "En 'Jujutsu Kaisen', ¿cuál es el nombre del tesorero de la escuela de jujutsu?",
+        "correct_answer": "Kento Nanami",
         "incorrect_answers": [
-            "'. . . las ruedas pierden tracción, haciendo que el auto se deslice de lado'",
-            "'. . . el auto sobrevira a través de una curva, haciéndolo girar más rápido'",
-            "'. . . se gira mucho'"
+            "Masamichi Yaga",
+            "Yoshinobu Gakuganji",
+            "Satoru Gojo"
         ]
     },
     {
@@ -920,12 +920,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Qué estudio de animación animó 'Psycho Pass'?",
-        "correct_answer": "Production I.G",
+        "question": "En 'Jujutsu Kaisen', ¿qué maldición vive dentro de Maki Zen'in?",
+        "correct_answer": "Nue",
         "incorrect_answers": [
-            "Kyoto Animation",
-            "Shaft",
-            "Trigger"
+            "Kuchisake-onna",
+            "Miwa Higuruma",
+            "Aoi Todo"
         ]
     },
     {
@@ -933,12 +933,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿En qué manga se originó la 'Chica 404' de 4chan?",
-        "correct_answer": "Yotsuba&!",
+        "question": "En 'Steins;Gate', ¿cuál es el nombre del dispositivo utilizado por Okabe Rintarou para enviar mensajes al pasado?",
+        "correct_answer": "D-Mail",
         "incorrect_answers": [
-            "Azumanga Daioh",
-            "Lucky Star",
-            "Clover"
+            "Time Leap Machine",
+            "Phone Microwave (Name Subject to Change)r",
+            "Future Gadget #8"
         ]
     },
     {
@@ -954,19 +954,19 @@
             "Hirohiko Araki"
         ]
     },
-    {
-        "id": 76,
-        "type": "multiple",
-        "difficulty": "hard",
-        "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿En qué año comenzó la serialización del manga 'Ping Pong'?",
-        "correct_answer": "1996",
-        "incorrect_answers": [
-            "2014",
-            "2010",
-            "2003"
-        ]
-    },
+   {
+    "id": 76,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'ReLIFE', ¿cuál es la edad del protagonista, Arata Kaizaki, al comienzo de la historia?",
+    "correct_answer": "27 años",
+    "incorrect_answers": [
+        "25 años",
+        "29 años",
+        "30 años"
+    ]
+},
     {
         "id": 77,
         "type": "multiple",
@@ -980,19 +980,19 @@
             "Amistad"
         ]
     },
-    {
-        "id": 78,
-        "type": "multiple",
-        "difficulty": "hard",
-        "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Qué canción era el indicativo para la estación de radio KWFM de Stefan Verdemann en el 'Monster' de Urasawa Naoki?",
-        "correct_answer": "Over the Rainbow",
-        "incorrect_answers": [
-            "What a Wonderful World",
-            "When You Wish Upon A Star",
-            "Singing In The Rain"
-        ]
-    },
+   {
+    "id": 78,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Mushoku Tensei: Jobless Reincarnation', ¿cuál es el nombre del padre biológico de Rudeus Greyrat?",
+    "correct_answer": "Paul Greyrat",
+    "incorrect_answers": [
+        "Zenith Greyrat",
+        "Roxy Migurdia",
+        "Ghislaine Dedoldia"
+    ]
+},
     {
         "id": 79,
         "type": "multiple",
@@ -1058,32 +1058,32 @@
             "2005"
         ]
     },
-    {
+   {
         "id": 84,
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Cuál de estos personajes es de 'Legendz: Tale of the Dragon Kings'?",
-        "correct_answer": "Shiron",
+        "question": "En 'Dragon Ball Z', ¿cuál es el nombre del planeta natal de los Saiyajin?",
+        "correct_answer": "Planeta Vegeta",
         "incorrect_answers": [
-            "Jack",
-            "Axia",
-            "Drum"
+            "Planeta Namek",
+            "Planeta Tierra",
+            "Planeta Kaio"
         ]
     },
     {
-        "id": 85,
-        "type": "multiple",
-        "difficulty": "hard",
-        "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Qué estudio animó Afro Samurai?",
-        "correct_answer": "Gonzo",
-        "incorrect_answers": [
-            "Kyoto Animation",
-            "Xebec",
-            "Production I.G"
-        ]
-    },
+    "id": 85,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entretenimiento: Anime y Manga Japonés",
+    "question": "En 'Overlord', ¿cuál es el nombre del gremio al que pertenece Momonga, el protagonista, en el juego Yggdrasil?",
+    "correct_answer": "Ainz Ooal Gown",
+    "incorrect_answers": [
+        "Darkness Knights",
+        "The Nine's Own Goal",
+        "Black Scripture"
+    ]
+}
     {
         "id": 86,
         "type": "multiple",
@@ -1121,17 +1121,17 @@
             "Falso"
         ]
     },
-    {
+   {
         "id": 89,
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "En 'Jewelpet Sunshine', ¿cuál es la canción que suena cuando Kanon y sus amigos escapan de la cárcel?",
-        "correct_answer": "I Don't Want to Miss a Thing",
+        "question": "En 'Jujutsu Kaisen', ¿cuál es el nombre del objeto maldito que Yuji Itadori ingiere para salvar a sus amigos en el primer episodio?",
+        "correct_answer": "Dedo de Sukuna",
         "incorrect_answers": [
-            "Eye Of The Tiger",
-            "Born to be Wild",
-            "Ruby Ring"
+            "Cuchara maldita",
+            "Anillo de Maleficio",
+            "Collar encantado"
         ]
     },
     {
@@ -1139,12 +1139,12 @@
         "type": "multiple",
         "difficulty": "hard",
         "category": "Entretenimiento: Anime y Manga Japonés",
-        "question": "¿Qué estudio de animación produjo la adaptación al anime de 'xxxHolic'?",
-        "correct_answer": "Production I.G",
+        "question": "En 'The Quintessential Quintuplets', ¿cuál de las quintillizas es la más hábil en matemáticas?",
+        "correct_answer": "Nino Nakano",
         "incorrect_answers": [
-            "Sunrise",
-            "Xebec",
-            "Kyoto Animation"
+            "Ichika Nakano",
+            "Miku Nakano",
+            "Yotsuba Nakano"
         ]
     }
 ]
