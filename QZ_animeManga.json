@@ -6,7 +6,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "El Studio Ghibli es un estudio de animación japonés responsable de las películas 'Niños lobo' y 'El niño y la bestia'.",
         "correct_answer": "Falso",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Verdadero"
         ]
     },
@@ -17,7 +17,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Qué nombre se le da al personaje principal Chihiro en la película de 2001 'El viaje de Chihiro'?",
         "correct_answer": "Sen (Mil)",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Hyaku (Cien)",
             "Ichiman (Diez mil)",
             "Juu (Diez)"
@@ -30,7 +30,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Quién es la heroína principal del anime, Full Metal Panic!?",
         "correct_answer": "Kaname Chidori",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Teletha Testarossa",
             "Melissa Mao",
             "Kyoko Tokiwa"
@@ -43,7 +43,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Quién es el titán acorazado en 'Shingeki no Kyojin'?",
         "correct_answer": "Reiner Braun",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Armin Arlelt",
             "Mikasa Ackermann",
             "Eren Jaeger"
@@ -56,7 +56,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En 'Inuyasha', ¿qué están buscando los héroes?",
         "correct_answer": "Fragmentos de joya",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Bolas de dragón",
             "Piedras de Rave",
             "Piedras sagradas"
@@ -69,7 +69,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Quién es el autor de la serie de manga 'Astro Boy'?",
         "correct_answer": "Osamu Tezuka",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Mitsuteri Yokoyama",
             "Takao Saito",
             "Yoshihiro Tatsumi"
@@ -82,7 +82,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "Satella en 'Re:Zero' es la bruja de ¿qué?",
         "correct_answer": "Envidia",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Orgullo",
             "Pereza",
             "Ira"
@@ -95,7 +95,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿En qué año se emitió por primera vez 'Shingeki no Kyojin'?",
         "correct_answer": "2013",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "2014",
             "2012",
             "2015"
@@ -108,7 +108,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Cuál es la edad de Ash Ketchum en Pokémon cuando comienza su viaje?",
         "correct_answer": "10",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "11",
             "12",
             "9"
@@ -121,7 +121,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En la Señorita Kobayashi's Dragon Maid, ¿quién es la sirvienta de Kobayashi?",
         "correct_answer": "Tohru",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Lucoa",
             "Kanna",
             "Elma"
@@ -134,7 +134,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Qué Pokémon y sus evoluciones fueron prohibidos de aparecer en un papel principal después del Incidente del Episodio 38?",
         "correct_answer": "La línea de Porygon",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "La línea de Pikachu",
             "La línea de Elekid",
             "La línea de Magby"
@@ -147,7 +147,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Cuál es el nombre del impostor de Junko Enoshima al principio de Danganronpa: Trigger Happy Havoc?",
         "correct_answer": "Mukuro Ikusaba",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Ryota Mitarai",
             "Ultimate Imposter",
             "Komaru Naegi"
@@ -160,7 +160,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En el anime 'Toaru Kagaku no Railgun', los esper pueden alcanzar un máximo de nivel 6 en sus habilidades.",
         "correct_answer": "Falso",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Verdadero"
         ]
     },
@@ -171,7 +171,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En 'Un cierto Railgun científico', ¿cuántas 'hermanas' tuvo que matar Accelerator para lograr el nivel 6 rumoreado?",
         "correct_answer": "20,000",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "128",
             "10,000",
             "5,000"
@@ -184,7 +184,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En el anime 'My Hero Academia', ¿qué personaje se muestra con la habilidad de manipular la gravedad?",
         "correct_answer": "Uraraka",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Bakugo",
             "Deku",
             "Asui "
@@ -197,7 +197,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Qué anime presenta ampliamente música del género 'Eurobeat'?",
         "correct_answer": "Initial D",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Wangan Midnight",
             "Kino no Tabi",
             "Cowboy Bebop"
@@ -210,7 +210,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "El anime 'Lucky Star' sigue la historia de una chica que no es consciente de que es Dios.",
         "correct_answer": "Falso",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Verdadero"
         ]
     },
@@ -221,7 +221,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Cuál es el nombre de la Parte 5 de la Bizarre Adventure de JoJo?",
         "correct_answer": "Vento Aureo",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Vento Oreo",
             "Vanto Aureo",
             "Vento Eureo"
@@ -234,7 +234,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "¿Cuántos 'JoJos' protagonistas hay en la serie 'Jojo's Bizarre Adventure'?",
         "correct_answer": "8+",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "6+",
             "4+",
             "5+"
@@ -247,7 +247,7 @@
         "category": "Entretenimiento: anime y manga japonés",
         "question": "En la película de 1988 'Akira', Tetsuo termina destruyendo Tokio.",
         "correct_answer": "Verdadero",
-        "respuestas_incorrectas": [
+        "incorrect_answers": [
             "Falso"
         ]
     },
