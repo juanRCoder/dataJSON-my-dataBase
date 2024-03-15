@@ -164,6 +164,17 @@
         "Una pistola"
     ]
 },
+ {
+  "id": 16,
+  "difficulty": "easy",
+  "question": "En 'Death Note', ¿cómo se llama el personaje principal que encuentra el cuaderno de la muerte?",
+  "correct_answer": "Light Yagami",
+  "incorrect_answers": [
+    "L Lawliet",
+    "Misa Amane",
+    "Ryuk"
+  ]
+}
     {
         "id": 17,
         "difficulty": "easy",     
@@ -297,7 +308,18 @@
     "id": 28
 },
 {
-    "id": 29,
+  "id": 29,
+  "difficulty": "medium",
+  "question": "En 'Fullmetal Alchemist', ¿cuál es el nombre del protagonista que perdió su pierna y su brazo en un intento de resucitar a su madre?",
+  "correct_answer": "Edward Elric",
+  "incorrect_answers": [
+    "Alphonse Elric",
+    "Roy Mustang",
+    "Winry Rockbell"
+  ]
+},
+{
+    "id": 30,
     "difficulty": "medium",
     "question": "En 'Tokyo Revengers', ¿cuál es el nombre del líder de la pandilla Tokyo Manji Kai en el pasado?",
     "correct_answer": "Mikey Sano",
@@ -615,6 +637,17 @@
             "1995"
         ]
     },
+{
+  "id": 59,
+  "difficulty": "very_hard",
+  "question": "¿Cuál es el nombre del creador original del manga 'One Piece'?",
+  "correct_answer": "Eiichiro Oda",
+  "incorrect_answers": [
+    "Akira Toriyama",
+    "Masashi Kishimoto",
+    "Hajime Isayama"
+  ]
+},
     {
         "id": 60,
         "difficulty": "hard",
