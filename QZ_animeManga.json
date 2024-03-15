@@ -220,6 +220,7 @@
     ]
 },
 {
+    "id": 21,
     "difficulty": "medium",
     "question": "¿Cuál anime no dirigió Seiji Kishi?",
     "correct_answer": "Another",
@@ -227,8 +228,7 @@
         "La humanidad ha declinado",
         "Clase de asesinato",
         "Danganronpa: La animación"
-    ],
-    "id": 21
+    ]
 },
 {
     "id": 22,
@@ -243,7 +243,7 @@
 },
 {
     "id": 23,
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": "En 'Demon Slayer', ¿cuál es el nombre del pilar del Cuerpo de Cazadores de Demonios que se especializa en el uso del aliento de agua?",
     "correct_answer": "Giyu Tomioka",
     "incorrect_answers": [
@@ -253,6 +253,7 @@
     ]
 },
 {
+    "id": 24,
     "difficulty": "medium",
     "question": "¿En qué ciudad se desarrolla la trama principal de 'Demon Slayer'?",
     "correct_answer": "Asakusa",
@@ -260,8 +261,7 @@
         "Tokio",
         "Kioto",
         "Edo"
-    ],
-    "id": 24
+    ]
 },
 {
     "id": 25,
@@ -275,6 +275,7 @@
     ]
 },
 {
+    "id": 26,
     "difficulty": "medium",
     "question": "En Arifureta, ¿cuál es el nombre del compañero de Hajime que se convierte en un poderoso mago?",
     "correct_answer": "Yue",
@@ -282,10 +283,10 @@
         "Shea",
         "Kaori",
         "Tio"
-    ],
-    "id": 26
+    ]
 },
 {
+     "id": 27,
     "difficulty": "medium",
     "question": "En 'Mob Psycho 100', ¿qué tipo de habilidad psíquica tiene Mob?",
     "correct_answer": "Explosión psíquica",
@@ -293,10 +294,10 @@
         "Telequinesis",
         "Exorcismo",
         "Telepatía"
-    ],
-    "id": 27
+    ]
 },
 {
+    "id": 28,
     "difficulty": "medium",
     "question": "En Tokyo Ghoul, ¿qué tipo de criatura es un 'ghoul'?",
     "correct_answer": "Humano mutado",
@@ -304,8 +305,7 @@
         "Vampiro",
         "Zombi",
         "Demonio"
-    ],
-    "id": 28
+    ]
 },
 {
   "id": 29,
@@ -330,6 +330,7 @@
     ]
 },
 {
+    "id": 31,
     "difficulty": "medium",
     "question": "En 'Guilty Crown', ¿cuál es el nombre del virus mortal que afecta a la población y da poderes especiales a ciertas personas?",
     "correct_answer": "Apocalipsis",
@@ -337,10 +338,10 @@
         "Endemic",
         "Epidemia",
         "Crisis"
-    ],
-    "id": 31
+    ]
 },
 {
+    "id": 32,
     "difficulty": "medium",
     "question": "¿Qué estudio hizo Cowboy Bebop?",
     "correct_answer": "Sunrise",
@@ -348,10 +349,10 @@
         "Bones",
         "Madhouse",
         "Pierriot"
-    ],
-    "id": 32
+    ]
 },
 {
+    "id": 33,
     "difficulty": "medium",
     "question": "¿Cuál es el nombre del dispositivo que permite energía infinita en el anime 'Dimension W'?",
     "correct_answer": "Bobinas",
@@ -359,10 +360,10 @@
         "Cables",
         "Coleccionistas",
         "Tesla"
-    ],
-    "id": 33
+    ]
 },
 {
+    "id": 34,
     "difficulty": "medium",
     "question": "En Tate no Yuusha no Nariagari, ¿qué objeto obtiene Naofumi que lo ayuda en su viaje?",
     "correct_answer": "Un escudo mágico",
@@ -370,10 +371,10 @@
         "Un espada legendaria",
         "Un amuleto de protección",
         "Una armadura divina"
-    ],
-    "id": 34
+    ]
 },
 {
+    "id": 35,
     "difficulty": "medium",
     "question": "En el anime 'Death Note', ¿cuál es el nombre del detective que persigue a Kira?",
     "correct_answer": "L Lawliet",
@@ -381,10 +382,10 @@
         "Light Yagami",
         "Near",
         "Mello"
-    ],
-    "id": 35
+    ]
 },
 {
+    "id": 36,
     "difficulty": "medium",
     "question": "¿De qué raza es el personaje Plum de 'No Game No Life'?",
     "correct_answer": "Dhampir",
@@ -392,10 +393,10 @@
         "Flügel",
         "Imanity",
         "Seiren"
-    ],
-    "id": 36
+    ]
 },
 {
+    "id": 37,
     "difficulty": "medium",
     "question": "¿cuál es el nombre del creador del juego Sword Art Online?",
     "correct_answer": "Akihiko Kayaba",
@@ -403,10 +404,10 @@
         "Nobuyuki Sugou",
         "Seijirou Kikuoka",
         "houichi Shinkawa"
-    ],
-    "id": 37
+    ]
 },
 {
+    "id": 38,
     "difficulty": "medium",
     "question": "¿cuál es el nombre de la fruta que come Luffy, que le otorga la habilidad de estirar su cuerpo como goma?",
     "correct_answer": "Gomu Gomu",
@@ -414,10 +415,10 @@
         "Pika Pika",
         "Hito Hito",
         "Goro Goro"
-    ],
-    "id": 38
+    ]
 },
 {
+    "id": 39,
     "difficulty": "medium",
     "question": "¿cuál es el nombre del mentor de Naruto que lo entrena para convertirse en un ninja más fuerte?",
     "correct_answer": "Jiraiya",
@@ -425,10 +426,10 @@
         "Kakashi Hatake",
         "Orochimaru",
         "Tsunade"
-    ],
-    "id": 39
+    ]
 },
 {
+    "id": 40,
     "difficulty": "medium",
     "question": "En 'Toriko', ¿cuál de los Reyes Celestiales siguientes tiene un sentido del oído mejorado?",
     "correct_answer": "Zebra",
@@ -436,10 +437,10 @@
         "Coco",
         "Sunny",
         "Toriko"
-    ],
-    "id": 40
+    ]
 },
 {
+    "id": 41,
     "difficulty": "hard",
     "question": "¿Cuál es el nombre del mundo virtual en el manga 'Sword Art Online'?",
     "correct_answer": "Aincrad",
@@ -447,8 +448,7 @@
         "Alfheim",
         "Gun Gale Online",
         "Underworld"
-    ],
-    "id": 41
+    ]
 },
     {
         "id": 42,
