@@ -582,7 +582,7 @@
             "Future Gadget #8"
         ]
     },
-   {
+  {
     "id": 54,
     "difficulty": "hard",
     "question": "En 'ReLIFE', ¿cuál es la edad del protagonista, Arata Kaizaki, al comienzo de la historia?",
@@ -638,15 +638,15 @@
         ]
     },
 {
-  "id": 59,
- "difficulty": "hard",
-  "question": "¿Cuál es el nombre del creador original del manga 'One Piece'?",
-  "correct_answer": "Eiichiro Oda",
-  "incorrect_answers": [
-    "Akira Toriyama",
-    "Masashi Kishimoto",
-    "Hajime Isayama"
-  ]
+    "id": 59,
+    "difficulty": "hard",
+    "question": "¿Cuál es el nombre del creador original del manga 'One Piece'?",
+    "correct_answer": "Eiichiro Oda",
+    "incorrect_answers": [
+        "Akira Toriyama",
+        "Masashi Kishimoto",
+        "Hajime Isayama"
+    ]
 },
     {
         "id": 60,
