@@ -165,17 +165,6 @@
     ]
 },
     {
-        "id": 16,
-        "difficulty": "easy",
-        "question": "¿Cuántos 'JoJos' protagonistas hay en la serie 'Jojo's Bizarre Adventure'?",
-        "correct_answer": "8+",
-        "incorrect_answers": [
-            "6+",
-            "4+",
-            "5+"
-        ]
-    },
-    {
         "id": 17,
         "difficulty": "easy",     
         "question": "En el manga 'Naruto', ¿cuál es el apellido de Sakura?",
@@ -317,17 +306,6 @@
         "Naoto Tachibana",
         "Ken Wakui"
     ]
-},
-{
-    "difficulty": "medium",
-    "question": "¿Cómo se conoce Ikki Kurogane al principio de 'Chivalry of a Failed Knight'?",
-    "correct_answer": "El Peor",
-    "incorrect_answers": [
-        "Otro",
-        "Blazer",
-        "Princesa"
-    ],
-    "id": 30
 },
 {
     "difficulty": "medium",
@@ -635,17 +613,6 @@
             "2013",
             "1983",
             "1995"
-        ]
-    },
-    {
-        "id": 59,
-        "difficulty": "hard",
-        "question": "En el anime Full Metal Panic!, ¿quién es la mejor amiga de Kaname?",
-        "correct_answer": "Kyoko Tokiwa",
-        "incorrect_answers": [
-            "Melissa Mao",
-            "Ren Mikihara",
-            "Teletha 'Tessa' Testarossa"
         ]
     },
     {
