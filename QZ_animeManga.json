@@ -584,7 +584,7 @@
     },
    {
     "id": 54,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question": "En 'ReLIFE', ¿cuál es la edad del protagonista, Arata Kaizaki, al comienzo de la historia?",
     "correct_answer": "27 años",
     "incorrect_answers": [
@@ -639,7 +639,7 @@
     },
 {
   "id": 59,
-  "difficulty": "very_hard",
+  "difficulty": "hard",
   "question": "¿Cuál es el nombre del creador original del manga 'One Piece'?",
   "correct_answer": "Eiichiro Oda",
   "incorrect_answers": [
