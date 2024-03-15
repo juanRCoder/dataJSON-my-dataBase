@@ -128,7 +128,7 @@
         ]
     },
    {
-    "id": 13,
+    "id": 11,
     "type": "multiple",
     "difficulty": "medium",
     "category": "Entretenimiento: Anime y Manga Japonés",
@@ -320,7 +320,7 @@
     "id": 26,
     "type": "multiple",
     "difficulty": "easy",
-    "category": "Entretenimiento: Anime y Manga Japonés",
+    "category": "Entretenimiento: anime y manga japonés",
     "question": "En 'Yuru Camp', ¿cuál es el nombre del personaje principal que disfruta de acampar al aire libre?",
     "correct_answer": "Rin Shima",
     "incorrect_answers": [
