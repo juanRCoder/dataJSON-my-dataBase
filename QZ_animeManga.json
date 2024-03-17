@@ -179,9 +179,9 @@
         "id": 17,
         "difficulty": "easy",     
         "question": "En el manga 'Naruto', ¿cuál es el apellido de Sakura?",
-        "correct_answer": "Uzumaki",
+        "correct_answer": "Haruno",
         "incorrect_answers": [
-            "Haruno",
+            "Uzumaki",
             "Hyuga",
             "Nara"
         ]
