@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "question": "¿Qué nombre se le da al personaje principal Chihiro en la película de 2001 'El viaje de Chihiro'?",
+        "correct_answer": "Sen (Mil)",
+        "incorrect_answers": [
+            "Hyaku (Cien)",
+            "Ichiman (Diez mil)",
+            "Juu (Diez)"
+        ]
+    },
+    {
+        "id": 2,
+        "difficulty": "easy",
+        "question": "¿Quién es la heroína principal del anime, Full Metal Panic!?",
+        "correct_answer": "Kaname Chidori",
+        "incorrect_answers": [
+            "Teletha Testarossa",
+            "Melissa Mao",
+            "Kyoko Tokiwa"
+        ]
+    },
+    {
+        "id": 3,
+        "difficulty": "easy",
+        "question": "¿Quién es el titán acorazado en 'Shingeki no Kyojin'?",
+        "correct_answer": "Reiner Braun",
+        "incorrect_answers": [
+            "Armin Arlelt",
+            "Mikasa Ackermann",
+            "Eren Jaeger"
+        ]
+    },
+    {
+        "id": 4,
+        "difficulty": "easy",
+        "question": "En 'Inuyasha', ¿qué están buscando los héroes?",
+        "correct_answer": "Fragmentos de joya",
+        "incorrect_answers": [
+            "Bolas de dragón",
+            "Piedras de Rave",
+            "Piedras sagradas"
+        ]
+    },
+    {
+        "id": 5,
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre del ninja protagonista en Naruto?",
+        "correct_answer": "Naruto",
+        "incorrect_answers": [
+            "Sasuke",
+            "Goku",
+            "Luffy"
+        ]
+    },
+    {
+        "id": 6,
+        "difficulty": "easy",
+        "question": "Satella en 'Re:Zero' es la bruja de ¿qué?",
+        "correct_answer": "Envidia",
+        "incorrect_answers": [
+            "Orgullo",
+            "Pereza",
+            "Ira"
+        ]
+    },
+    {
+        "id": 7,
+        "difficulty": "easy",
+        "question": "¿En qué año se emitió por primera vez 'Shingeki no Kyojin'?",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+            "2014",
+            "2012",
+            "2015"
+        ]
+    },
+    {
+        "id": 8,
+        "difficulty": "easy",
+        "question": "¿Cuál es la edad de Ash Ketchum en Pokémon cuando comienza su viaje?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "11",
+            "12",
+            "9"
+        ]
+    },
+    {
+        "id": 9,
+        "difficulty": "easy",
+        "question": "En la Señorita Kobayashi's Dragon Maid, ¿quién es la sirvienta de Kobayashi?",
+        "correct_answer": "Tohru",
+        "incorrect_answers": [
+            "Lucoa",
+            "Kanna",
+            "Elma"
+        ]
+    },
+   {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "En 'Shuumatsu no Valkyrie', ¿quién es el primer combatiente humano elegido?",
+    "correct_answer": "Lu Bu",
+    "incorrect_answers": [
+        "Adam",
+        "Jack el Destripador",
+        "Sasaki Kojiro"
+    ]
+},
+    {
+        "id": 11,
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre del impostor de Junko Enoshima al principio de Danganronpa: Trigger Happy Havoc?",
+        "correct_answer": "Mukuro Ikusaba",
+        "incorrect_answers": [
+            "Ryota Mitarai",
+            "Ultimate Imposter",
+            "Komaru Naegi"
+        ]
+    },
+    {
+        "id": 12,
+        "difficulty": "easy",
+        "question": "¿Quién es el autor del manga Death Note?",
+        "correct_answer": "Tsugumi Ohba",
+        "incorrect_answers": [
+            "Masashi Kishimoto",
+            "Tite Kubo",
+            "Hajime Isayama"
+        ]
+    },
+    {
+        "id": 13,
+        "difficulty": "easy",
+        "question": "En el anime 'My Hero Academia', ¿qué personaje se muestra con la habilidad de manipular la gravedad?",
+        "correct_answer": "Uraraka",
+        "incorrect_answers": [
+            "Bakugo",
+            "Deku",
+            "Asui "
+        ]
+    },
+    {
+        "id": 14,
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre del protagonista en 'Ghost in the Shell'?",
+        "correct_answer": "Motoko Kusanagi",
+        "incorrect_answers": [
+            "Tetsuo Shima",
+            "Light Yagami",
+            "Shinji Ikari"
+        ]
+    },
+ {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "En 'Gantz', ¿qué objeto misterioso aparece en la habitación de Kei Kurono y Masaru Kato después de que mueren atropellados por un tren?",
+    "correct_answer": "Una esfera negra",
+    "incorrect_answers": [
+        "Una llave",
+        "Un teléfono móvil",
+        "Una pistola"
+    ]
+},
+ {
+  "id": 16,
+  "difficulty": "easy",
+  "question": "En 'Death Note', ¿cómo se llama el personaje principal que encuentra el cuaderno de la muerte?",
+  "correct_answer": "Light Yagami",
+  "incorrect_answers": [
+    "L Lawliet",
+    "Misa Amane",
+    "Ryuk"
+  ]
+},
+    {
+        "id": 17,
+        "difficulty": "easy",     
+        "question": "En el manga 'Naruto', ¿cuál es el apellido de Sakura?",
+        "correct_answer": "Haruno",
+        "incorrect_answers": [
+            "Uzumaki",
+            "Hyuga",
+            "Nara"
+        ]
+    },
+    {
+        "id": 18,
+        "difficulty": "easy",
+        "question": "En 'Fairy Tail', ¿cuál es el apodo de Natsu Dragneel?",
+        "correct_answer": "La Salamandra",
+        "incorrect_answers": [
+            "El cazador de dragones",
+            "El dragón",
+            "El demonio"
+        ]
+    },
+    {
+        "id": 19,
+        "difficulty": "easy",
+        "question": "Los dos personajes principales de 'No Game No Life', Sora y Shiro, ¿con qué nombre se llaman juntos?",
+        "correct_answer": "En blanco",
+        "incorrect_answers": [
+            "Inmanidad",
+            "Desabordo",
+            "Bestias de guerra"
+        ]
+    },
+ {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "En 'Yuru Camp', ¿cuál es el nombre del personaje principal que disfruta de acampar al aire libre?",
+    "correct_answer": "Rin Shima",
+    "incorrect_answers": [
+        "Nadeshiko Kagamihara",
+        "Chiaki Oogaki",
+        "Aoi Inuyama"
+    ]
+},
+{
+    "id": 21,
+    "difficulty": "medium",
+    "question": "¿Cuál anime no dirigió Seiji Kishi?",
+    "correct_answer": "Another",
+    "incorrect_answers": [
+        "La humanidad ha declinado",
+        "Clase de asesinato",
+        "Danganronpa: La animación"
+    ]
+},
+{
+    "id": 22,
+    "difficulty": "medium",
+    "question": "En 'Demon Slayer', ¿cuál es el nombre del demonio superior que es responsable de la transformación de Nezuko Kamado en demonio?",
+    "correct_answer": "Muzan Kibutsuji",
+    "incorrect_answers": [
+        "Akaza",
+        "Doma",
+        "Kokushibo"
+    ]
+},
+{
+    "id": 23,
+    "difficulty": "medium",
+    "question": "En 'Demon Slayer', ¿cuál es el nombre del pilar del Cuerpo de Cazadores de Demonios que se especializa en el uso del aliento de agua?",
+    "correct_answer": "Giyu Tomioka",
+    "incorrect_answers": [
+        "Muichiro Tokito",
+        "Shinobu Kocho",
+        "Sanemi Shinazugawa"
+    ]
+},
+{
+    "id": 24,
+    "difficulty": "medium",
+    "question": "¿En qué ciudad se desarrolla la trama principal de 'Demon Slayer'?",
+    "correct_answer": "Asakusa",
+    "incorrect_answers": [
+        "Tokio",
+        "Kioto",
+        "Edo"
+    ]
+},
+{
+    "id": 25,
+    "difficulty": "medium",
+    "question": "¿Cuál es el nombre del gremio al que pertenece Momonga, el protagonista de 'Overlord', en el juego Yggdrasil?",
+    "correct_answer": "Ainz Ooal Gown",
+    "incorrect_answers": [
+        "Darkness Knights",
+        "The Nine's Own Goal",
+        "Black Scripture"
+    ]
+},
+{
+    "id": 26,
+    "difficulty": "medium",
+    "question": "En Arifureta, ¿cuál es el nombre del compañero de Hajime que se convierte en un poderoso mago?",
+    "correct_answer": "Yue",
+    "incorrect_answers": [
+        "Shea",
+        "Kaori",
+        "Tio"
+    ]
+},
+{
+     "id": 27,
+    "difficulty": "medium",
+    "question": "En 'Mob Psycho 100', ¿qué tipo de habilidad psíquica tiene Mob?",
+    "correct_answer": "Explosión psíquica",
+    "incorrect_answers": [
+        "Telequinesis",
+        "Exorcismo",
+        "Telepatía"
+    ]
+},
+{
+    "id": 28,
+    "difficulty": "medium",
+    "question": "En Tokyo Ghoul, ¿qué tipo de criatura es un 'ghoul'?",
+    "correct_answer": "Humano mutado",
+    "incorrect_answers": [
+        "Vampiro",
+        "Zombi",
+        "Demonio"
+    ]
+},
+{
+  "id": 29,
+  "difficulty": "medium",
+  "question": "En 'Fullmetal Alchemist', ¿cuál es el nombre del protagonista que perdió su pierna y su brazo en un intento de resucitar a su madre?",
+  "correct_answer": "Edward Elric",
+  "incorrect_answers": [
+    "Alphonse Elric",
+    "Roy Mustang",
+    "Winry Rockbell"
+  ]
+},
+{
+    "id": 30,
+    "difficulty": "medium",
+    "question": "En 'Tokyo Revengers', ¿cuál es el nombre del líder de la pandilla Tokyo Manji Kai en el pasado?",
+    "correct_answer": "Mikey Sano",
+    "incorrect_answers": [
+        "Takemichi Hanagaki",
+        "Naoto Tachibana",
+        "Ken Wakui"
+    ]
+},
+{
+    "id": 31,
+    "difficulty": "medium",
+    "question": "En 'Guilty Crown', ¿cuál es el nombre del virus mortal que afecta a la población y da poderes especiales a ciertas personas?",
+    "correct_answer": "Apocalipsis",
+    "incorrect_answers": [
+        "Endemic",
+        "Epidemia",
+        "Crisis"
+    ]
+},
+{
+    "id": 32,
+    "difficulty": "medium",
+    "question": "¿Qué estudio hizo Cowboy Bebop?",
+    "correct_answer": "Sunrise",
+    "incorrect_answers": [
+        "Bones",
+        "Madhouse",
+        "Pierriot"
+    ]
+},
+{
+    "id": 33,
+    "difficulty": "medium",
+    "question": "¿Cuál es el nombre del dispositivo que permite energía infinita en el anime 'Dimension W'?",
+    "correct_answer": "Bobinas",
+    "incorrect_answers": [
+        "Cables",
+        "Coleccionistas",
+        "Tesla"
+    ]
+},
+{
+    "id": 34,
+    "difficulty": "medium",
+    "question": "En Tate no Yuusha no Nariagari, ¿qué objeto obtiene Naofumi que lo ayuda en su viaje?",
+    "correct_answer": "Un escudo mágico",
+    "incorrect_answers": [
+        "Un espada legendaria",
+        "Un amuleto de protección",
+        "Una armadura divina"
+    ]
+},
+{
+    "id": 35,
+    "difficulty": "medium",
+    "question": "En el anime 'Death Note', ¿cuál es el nombre del detective que persigue a Kira?",
+    "correct_answer": "L Lawliet",
+    "incorrect_answers": [
+        "Light Yagami",
+        "Near",
+        "Mello"
+    ]
+},
+{
+    "id": 36,
+    "difficulty": "medium",
+    "question": "¿De qué raza es el personaje Plum de 'No Game No Life'?",
+    "correct_answer": "Dhampir",
+    "incorrect_answers": [
+        "Flügel",
+        "Imanity",
+        "Seiren"
+    ]
+},
+{
+    "id": 37,
+    "difficulty": "medium",
+    "question": "¿cuál es el nombre del creador del juego Sword Art Online?",
+    "correct_answer": "Akihiko Kayaba",
+    "incorrect_answers": [
+        "Nobuyuki Sugou",
+        "Seijirou Kikuoka",
+        "houichi Shinkawa"
+    ]
+},
+{
+    "id": 38,
+    "difficulty": "medium",
+    "question": "¿cuál es el nombre de la fruta que come Luffy, que le otorga la habilidad de estirar su cuerpo como goma?",
+    "correct_answer": "Gomu Gomu",
+    "incorrect_answers": [
+        "Pika Pika",
+        "Hito Hito",
+        "Goro Goro"
+    ]
+},
+{
+    "id": 39,
+    "difficulty": "medium",
+    "question": "¿cuál es el nombre del mentor de Naruto que lo entrena para convertirse en un ninja más fuerte?",
+    "correct_answer": "Jiraiya",
+    "incorrect_answers": [
+        "Kakashi Hatake",
+        "Orochimaru",
+        "Tsunade"
+    ]
+},
+{
+    "id": 40,
+    "difficulty": "medium",
+    "question": "En 'Toriko', ¿cuál de los Reyes Celestiales siguientes tiene un sentido del oído mejorado?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+        "Coco",
+        "Sunny",
+        "Toriko"
+    ]
+},
+{
+    "id": 41,
+    "difficulty": "hard",
+    "question": "¿Cuál es el nombre del mundo virtual en el manga 'Sword Art Online'?",
+    "correct_answer": "Aincrad",
+    "incorrect_answers": [
+        "Alfheim",
+        "Gun Gale Online",
+        "Underworld"
+    ]
+},
+    {
+        "id": 42,
+        "difficulty": "hard",
+        "question": "En KonoSuba, ¿cuál es el apellido completo de Darkness?",
+        "correct_answer": "Lalatina Dustiness",
+        "incorrect_answers": [
+            "Dustiness Ford",
+            "Dustiness Evergarden",
+            "Aqua Dustinessr"
+        ]
+},
+    {
+        "id": 43,
+        "difficulty": "hard",
+        "question": "¿Qué estudio de animación produjo 'Sword Art Online'?",
+        "correct_answer": "A-1 Pictures",
+        "incorrect_answers": [
+            "Production I.G",
+            "Silver Link",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "id": 44,
+        "difficulty": "hard",
+        "question": "En 'Hunter x Hunter', ¿por qué son conocidos los miembros de la familia de Killua?",
+        "correct_answer": "Asesinos",
+        "incorrect_answers": [
+            "Bandidos",
+            "Cazadores",
+            "Ninjas"
+        ]
+    },
+    {
+        "id": 45,
+        "difficulty": "hard",
+        "question": "En el primer episodio de Yu-Gi-Oh: Duel Monsters, ¿qué libro está leyendo Seto Kaiba en la Escuela Secundaria Domino?",
+        "correct_answer": "Así Habló Zaratustra",
+        "incorrect_answers": [
+            "Más Allá del Bien y del Mal",
+            "La República",
+            "Meditaciones"
+        ]
+    },
+    {
+        "id": 46,
+        "difficulty": "hard",
+        "question": "En 'One Piece', ¿quién confirma la existencia del tesoro legendario, One Piece?",
+        "correct_answer": "Edward 'Barbablanca' Newgate",
+        "incorrect_answers": [
+            "Ex Almirante de la Flota de la Marina, Sengoku",
+            "Rey Pirata Gol D Roger",
+            "Silvers Rayleigh"
+        ]
+    },
+    {
+        "id": 47,
+        "difficulty": "hard",
+        "question": "En 'KonoSuba', ¿cuál es el nombre completo del mago que sigue a Kazuma y su grupo?",
+        "correct_answer": "Vanir von Zell",
+        "incorrect_answers": [
+            "Wiz Dolittle",
+            "Yunyun Yunan",
+            "Megumin Crimson"
+        ]
+    },
+    {
+        "id": 48,
+        "difficulty": "hard",
+        "question": "¿Qué estudio de animación animó 'To Love-Ru'?",
+        "correct_answer": "Xebec",
+        "incorrect_answers": [
+            "Trigger",
+            "Sunrise",
+            "Kyoto Animation"
+        ]
+    },
+    {
+        "id": 49,
+        "difficulty": "hard",
+        "question": "¿Cuál es la subclase de Akatsuki en 'Log Horizon'?",
+        "correct_answer": "Rastreador",
+        "incorrect_answers": [
+            "Asesino",
+            "Escriba",
+            "Aprendiz"
+        ]
+    },
+    {
+        "id": 50,
+        "difficulty": "hard",
+        "question": "En 'Jujutsu Kaisen', ¿cuál es el nombre del tesorero de la escuela de jujutsu?",
+        "correct_answer": "Kento Nanami",
+        "incorrect_answers": [
+            "Masamichi Yaga",
+            "Yoshinobu Gakuganji",
+            "Satoru Gojo"
+        ]
+    },
+    {
+        "id": 51,
+        "difficulty": "hard",
+        "question": "¿Quién es el artista de manga de terror que hizo Uzumaki?",
+        "correct_answer": "Junji Ito",
+        "incorrect_answers": [
+            "Kazuo Umezu",
+            "Shintaro Kago",
+            "Sui Ishida"
+        ]
+    },
+    {
+        "id": 52,
+        "difficulty": "hard",
+        "question": "En 'Jujutsu Kaisen', ¿qué maldición vive dentro de Maki Zen'in?",
+        "correct_answer": "Nue",
+        "incorrect_answers": [
+            "Kuchisake-onna",
+            "Miwa Higuruma",
+            "Aoi Todo"
+        ]
+    },
+    {
+        "id": 53,
+        "difficulty": "hard",
+        "question": "En 'Steins;Gate', ¿cuál es el nombre del dispositivo utilizado por Okabe Rintarou para enviar mensajes al pasado?",
+        "correct_answer": "D-Mail",
+        "incorrect_answers": [
+            "Time Leap Machine",
+            "Phone Microwave (Name Subject to Change)r",
+            "Future Gadget #8"
+        ]
+    },
+  {
+    "id": 54,
+    "difficulty": "hard",
+    "question": "En 'ReLIFE', ¿cuál es la edad del protagonista, Arata Kaizaki, al comienzo de la historia?",
+    "correct_answer": "27 años",
+    "incorrect_answers": [
+        "25 años",
+        "29 años",
+        "30 años"
+    ]
+},
+    {
+        "id": 55,
+        "difficulty": "hard",
+        "question": "¿Cuál es la última línea pronunciada en la película de anime 'The End of Evangelion'?",
+        "correct_answer": "'¡Qué asco!'",
+        "incorrect_answers": [
+            "'¡Idiota, no te dejaré que me mates!'",
+            "'Nada.'",
+            "'Maldito seas, Shinji.'"
+        ]
+    },
+   {
+    "id": 56,
+    "difficulty": "hard",
+    "question": "En 'Mushoku Tensei: Jobless Reincarnation', ¿cuál es el nombre del padre biológico de Rudeus Greyrat?",
+    "correct_answer": "Paul Greyrat",
+    "incorrect_answers": [
+        "Zenith Greyrat",
+        "Roxy Migurdia",
+        "Ghislaine Dedoldia"
+    ]
+},
+    {
+        "id": 57,
+        "difficulty": "hard",
+        "question": "En el anime de Overlord, ¿quién creó a Cocytus?",
+        "correct_answer": "Guerrero Takemikazuchi",
+        "incorrect_answers": [
+            "Peroroncino",
+            "Ulbert Alain Odle",
+            "Bukubukuchagama"
+        ]
+    },
+     {
+        "id": 58,
+        "difficulty": "hard",
+        "question": "¿En qué año se lanzó por primera vez 'JoJo's Bizarre Adventure: Phantom Blood'?",
+        "correct_answer": "1987",
+        "incorrect_answers": [
+            "2013",
+            "1983",
+            "1995"
+        ]
+    },
+{
+    "id": 59,
+    "difficulty": "hard",
+    "question": "¿Cuál es el nombre del creador original del manga 'One Piece'?",
+    "correct_answer": "Eiichiro Oda",
+    "incorrect_answers": [
+        "Akira Toriyama",
+        "Masashi Kishimoto",
+        "Hajime Isayama"
+    ]
+},
+    {
+        "id": 60,
+        "difficulty": "hard",
+        "question": "¿En qué año comenzó el manga 'To Love-Ru'?",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+            "2007",
+            "2004",
+            "2005"
+        ]
+    }
+]

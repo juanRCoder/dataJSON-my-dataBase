@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "question": "¿Qué gas noble tiene el número atómico más bajo?",
+        "correct_answer": "Helio",
+        "incorrect_answers": [
+            "Neón",
+            "Argón",
+            "Kriptón"
+        ]
+    },
+    {
+        "id": 2,
+        "difficulty": "easy",
+        "question": "¿Cuál es el símbolo elemental para el mercurio?",
+        "correct_answer": "Hg",
+        "incorrect_answers": [
+            "Me",
+            "Mc",
+            "Hy"
+        ]
+    },
+    {
+        "id": 3,
+        "difficulty": "easy",
+        "question": "¿Cuál es la unidad SI estándar para la temperatura?",
+        "correct_answer": "Kelvin",
+        "incorrect_answers": [
+            "Fahrenheit",
+            "Celsius",
+            "Rankine"
+        ]
+    },
+    {
+        "id": 4,
+        "difficulty": "easy",
+        "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "correct_answer": "Fémur",
+        "incorrect_answers": [
+            "Escápula",
+            "Fíbula",
+            "Cúbito"
+        ]
+    },
+    {
+        "id": 5,
+        "difficulty": "easy",
+        "question": "¿Quién descubrió la Ley de la Gravedad?",
+        "correct_answer": "Sir Isaac Newton",
+        "incorrect_answers": [
+            "Galileo Galilei",
+            "Charles Darwin",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "id": 6,
+        "difficulty": "easy",
+        "question": "¿Qué significa LASER?",
+        "correct_answer": "Light amplification by stimulated emission of radiation",
+        "incorrect_answers": [
+            "Lite analysing by stereo ecorazer",
+            "Light amplifier by standby energy of radio",
+            "Life antimatter by standing entry of range"
+        ]
+    },
+    {
+        "id": 7,
+        "difficulty": "easy",
+        "question": "¿Cuántos planetas conforman nuestro Sistema Solar?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "6"
+        ]
+    },
+    {
+        "id": 8,
+        "difficulty": "easy",
+        "question": "Este elemento, cuando se somete a un calor y presión extremos, crea diamantes.",
+        "correct_answer": "Carbono",
+        "incorrect_answers": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Hidrógeno"
+        ]
+    },
+    {
+        "id": 9,
+        "difficulty": "easy",
+        "question": "¿Cuál misión Apolo fue la primera en aterrizar en la Luna?",
+        "correct_answer": "Apolo 11",
+        "incorrect_answers": [
+            "Apolo 10",
+            "Apolo 9",
+            "Apolo 13"
+        ]
+    },
+    {
+        "id": 10,
+        "difficulty": "easy",
+        "question": "¿Cuál de estos huesos es más difícil de romper?",
+        "correct_answer": "Fémur",
+        "incorrect_answers": [
+            "Cráneo",
+            "Húmero",
+            "Tibia"
+        ]
+    },
+    {
+        "id": 11,
+        "difficulty": "easy",
+        "question": "¿Cuál es el elemento más abundante en el universo?",
+        "correct_answer": "Hidrógeno",
+        "incorrect_answers": [
+            "Helio",
+            "Litio",
+            "Oxígeno"
+        ]
+    },
+    {
+        "id": 12,
+        "difficulty": "easy",
+        "question": "¿Qué elemento tiene el símbolo químico 'Fe'?",
+        "correct_answer": "Hierro",
+        "incorrect_answers": [
+            "Oro",
+            "Plata",
+            "Estaño"
+        ]
+    },
+    {
+        "id": 13,
+        "difficulty": "easy",
+        "question": "¿Cuál es la 'central energética' de la célula animal eucariota?",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+            "Núcleo",
+            "Cloroplasto",
+            "Retículo endoplásmico"
+        ]
+    },
+    {
+        "id": 14,
+        "difficulty": "easy",
+        "question": "¿El hielo seco es la forma sólida de qué sustancia?",
+        "correct_answer": "Dióxido de carbono",
+        "incorrect_answers": [
+            "Nitrógeno",
+            "Amoniaco",
+            "Oxígeno"
+        ]
+    },
+    {
+        "id": 15,
+        "difficulty": "easy",
+        "question": "¿Cuál de estos elementos es un metaloide?",
+        "correct_answer": "Antimonio",
+        "incorrect_answers": [
+            "Estaño",
+            "Bromo",
+            "Rubidio"
+        ]
+    },
+    {
+        "id": 16,
+        "difficulty": "easy",
+        "question": "La enfermedad de Alzheimer afecta principalmente a qué parte del cuerpo humano?",
+        "correct_answer": "Cerebro",
+        "incorrect_answers": [
+            "Pulmones",
+            "Piel",
+            "Corazón"
+        ]
+    },
+    {
+        "id": 17,
+        "difficulty": "easy",
+        "question": "La mayor distinción entre una célula eucariota y una célula procariota es:",
+        "correct_answer": "La presencia o ausencia de un núcleo",
+        "incorrect_answers": [
+            "El tamaño general",
+            "La presencia o ausencia de ciertos orgánulos",
+            "El modo de reproducción"
+        ]
+    },
+    {
+        "id": 18,
+        "difficulty": "easy",
+        "question": "¿Qué elemento tiene el punto de fusión más alto?",
+        "correct_answer": "Carbono",
+        "incorrect_answers": [
+            "Tungsteno",
+            "Platino",
+            "Osmio"
+        ]
+    },
+    {
+        "id": 19,
+        "difficulty": "easy",
+        "question": "¿Cuál es el planeta más caliente del Sistema Solar?",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+            "Marte",
+            "Mercurio",
+            "Júpiter"
+        ]
+    },
+    {
+        "id": 20,
+        "difficulty": "easy",
+        "question": "¿Cuál es la composición química del agua?",
+        "correct_answer": "H2O",
+        "incorrect_answers": [
+            "C12H6O2",
+            "CO2",
+            "H"
+        ]
+    },
+    {
+        "id": 21,
+        "difficulty": "medium",
+        "question": "¿El Síndrome de Down generalmente es causado por una copia extra de qué cromosoma?",
+        "correct_answer": "21",
+        "incorrect_answers": [
+            "23",
+            "15",
+            "24"
+        ]
+    },
+    {
+        "id": 22,
+        "difficulty": "medium",
+        "question": "Un organismo descrito como 'heliotrópico' tiene una tendencia a moverse hacia qué de estas cosas?",
+        "correct_answer": "Luz",
+        "incorrect_answers": [
+            "Agua",
+            "Árboles",
+            "Polen"
+        ]
+    },
+    {
+        "id": 23,
+        "difficulty": "medium",
+        "question": "¿Dónde se originó la raza de perros 'Chihuahua'?",
+        "correct_answer": "México",
+        "incorrect_answers": [
+            "Francia",
+            "España",
+            "Rusia"
+        ]
+    },
+    {
+        "id": 24,
+        "difficulty": "medium",
+        "question": "Au en la Tabla Periódica se refiere a qué elemento?",
+        "correct_answer": "Oro",
+        "incorrect_answers": [
+            "Plata",
+            "Oxígeno",
+            "Níquel"
+        ]
+    },
+    {
+        "id": 25,
+        "difficulty": "medium",
+        "question": "¿Cuál de estas opciones no es una de las fases de la mitosis?",
+        "correct_answer": "Diplofase",
+        "incorrect_answers": [
+            "Metafase",
+            "Anafase",
+            "Telofase"
+        ]
+    },
+    {
+        "id": 26,
+        "difficulty": "medium",
+        "question": "¿Ganímedes es la luna más grande de qué planeta?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": [
+            "Urano",
+            "Neptuno",
+            "Marte"
+        ]
+    },
+    {
+        "id": 27,
+        "difficulty": "medium",
+        "question": "Las lunas, Miranda, Ariel, Umbriel, Titania y Oberón orbitan qué planeta?",
+        "correct_answer": "Urano",
+        "incorrect_answers": [
+            "Júpiter",
+            "Venus",
+            "Neptuno"
+        ]
+    },
+    {
+        "id": 28,
+        "difficulty": "medium",
+        "question": "¿Después de qué ciudad danesa se nombra el 72º elemento en la tabla periódica?",
+        "correct_answer": "Copenhague",
+        "incorrect_answers": [
+            "Odense",
+            "Herning",
+            "Skagen"
+        ]
+    },
+    {
+        "id": 29,
+        "difficulty": "medium",
+        "question": "¿Cuál de estos científicos realizó el Experimento de la lámina de oro que concluyó que los átomos están compuestos principalmente de espacio vacío?",
+        "correct_answer": "Ernest Rutherford",
+        "incorrect_answers": [
+            "Joseph John Thomson",
+            "Arquímedes",
+            "Niels Henrik David Bohr"
+        ]
+    },
+    {
+        "id": 30,
+        "difficulty": "medium",
+        "question": "¿Cuál de estas estrellas es la más grande?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": [
+            "VY Canis Majoris",
+            "Betelgeuse",
+            "RW Cephei"
+        ]
+    },
+    {
+        "id": 31,
+        "difficulty": "medium",
+        "question": "¿Aproximadamente cuánto tiempo tarda la luz en viajar desde el Sol hasta la Tierra?",
+        "correct_answer": "8 Minutos",
+        "incorrect_answers": [
+            "6 Minutos",
+            "2 Minutos",
+            "12 Minutos"
+        ]
+    },
+    {
+        "id": 32,
+        "difficulty": "medium",
+        "question": "¿Qué es la Hipernatremia?",
+        "correct_answer": "Aumento en el sodio en la sangre",
+        "incorrect_answers": [
+            "Disminución en el potasio en la sangre",
+            "Aumento en la glucosa en la sangre",
+            "Disminución en el hierro en la sangre"
+        ]
+    },
+    {
+        "id": 33,
+        "difficulty": "medium",
+        "question": "¿Cuántos planetas enanos oficialmente reconocidos en el sistema solar llevan el nombre de deidades polinesias?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "0",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "id": 34,
+        "difficulty": "medium",
+        "question": "¿Qué término está mejor asociado con Sigmund Freud?",
+        "correct_answer": "Psicoanálisis",
+        "incorrect_answers": [
+            "Terapia cognitivo-conductual",
+            "Teoría de la gravedad",
+            "Terapia de comportamiento dialéctico"
+        ]
+    },
+    {
+        "id": 35,
+        "difficulty": "medium",
+        "question": "¿Cuándo el Falcon Heavy fue lanzado en su vuelo de prueba, cuál fue la única parte de la operación que falló?",
+        "correct_answer": "Aterrizaje del núcleo central",
+        "incorrect_answers": [
+            "Aterrizaje del propulsor lateral",
+            "Despliegue de Starman",
+            "Encendido y despegue"
+        ]
+    },
+    {
+        "id": 36,
+        "difficulty": "medium",
+        "question": "¿Cuál de estos elementos en la Tabla Periódica es un gas noble?",
+        "correct_answer": "Neón",
+        "incorrect_answers": [
+            "Potasio",
+            "Yodo",
+            "Cobalto"
+        ]
+    },
+    {
+        "id": 37,
+        "difficulty": "medium",
+        "question": "¿Cuál de estos es un tipo de reflejo tendinoso profundo o estiramiento?",
+        "correct_answer": "Reflejo de golpe en el tobillo",
+        "incorrect_answers": [
+            "Reflejo de la arcada",
+            "Reflejo pupilar a la luz",
+            "Reflejo de rascado"
+        ]
+    },
+    {
+        "id": 38,
+        "difficulty": "medium",
+        "question": "Junto con el oxígeno, ¿qué elemento es principalmente responsable de que el cielo aparezca azul?",
+        "correct_answer": "Nitrógeno",
+        "incorrect_answers": [
+            "Helio",
+            "Carbono",
+            "Hidrógeno"
+        ]
+    },
+    {
+        "id": 39,
+        "difficulty": "medium",
+        "question": "¿Cuál es un nombre alternativo para el trastorno de personalidad múltiple?",
+        "correct_answer": "Trastorno de identidad disociativo",
+        "incorrect_answers": [
+            "Trastorno de integridad de la identidad corporal",
+            "Crisis de identidad",
+            "Esquizofrenia"
+        ]
+    },
+    {
+        "id": 40,
+        "difficulty": "medium",
+        "question": "¿Aproximadamente cuánto dura un año en Urano?",
+        "correct_answer": "84 años terrestres",
+        "incorrect_answers": [
+            "47 años terrestres",
+            "62 años terrestres",
+            "109 años terrestres"
+        ]
+    },
+    {
+        "id": 41,
+        "difficulty": "hard",
+        "question": "¿Qué unidad científica lleva el nombre de un noble italiano?",
+        "correct_answer": "Voltio",
+        "incorrect_answers": [
+            "Pascal",
+            "Ohm",
+            "Hertz"
+        ]
+    },
+    {
+        "id": 42,
+        "difficulty": "hard",
+        "question": "¿Cuál es el nombre químico de H2O?",
+        "correct_answer": "Monóxido de dihidrógeno",
+        "incorrect_answers": [
+            "Cloruro de amonio",
+            "Carbonato de sodio anhidro",
+            "Dióxido de manganeso"
+        ]
+    },
+    {
+        "id": 43,
+        "difficulty": "hard",
+        "question": "¿Qué elemento en la tabla periódica tiene 92 electrones?",
+        "correct_answer": "Uranio",
+        "incorrect_answers": [
+            "Azufre",
+            "Hidrógeno",
+            "Hierro"
+        ]
+    },
+    {
+        "id": 44,
+        "difficulty": "hard",
+        "question": "¿Cuál es el toxina más potente conocida?",
+        "correct_answer": "Toxina botulínica",
+        "incorrect_answers": [
+            "Ricino",
+            "Cianuro",
+            "Asbesto"
+        ]
+    },
+    {
+        "id": 45,
+        "difficulty": "hard",
+        "question": "¿De qué palabra deriva la palabra 'ciencia', que significa 'scire'?",
+        "correct_answer": "Conocer",
+        "incorrect_answers": [
+            "Medir",
+            "Vivir",
+            "Contar"
+        ]
+    },
+    {
+        "id": 46,
+        "difficulty": "hard",
+        "question": "¿Cuál de estos compuestos químicos NO se encuentra en el ácido gástrico?",
+        "correct_answer": "Ácido sulfúrico",
+        "incorrect_answers": [
+            "Ácido clorhídrico",
+            "Cloruro de potasio",
+            "Cloruro de sodio"
+        ]
+    },
+    {
+        "id": 47,
+        "difficulty": "hard",
+        "question": "¿Cuál se considera la forma más rara de daltonismo?",
+        "correct_answer": "Azul",
+        "incorrect_answers": [
+            "Rojo",
+            "Verde",
+            "Morado"
+        ]
+    },
+    {
+        "id": 48,
+        "difficulty": "hard",
+        "question": "¿Qué es 'Stenoma'?",
+        "correct_answer": "Un género de polillas",
+        "incorrect_answers": [
+            "Un estimulante de combate de la Segunda Guerra Mundial",
+            "Un tipo de condimento",
+            "Una ciudad portuaria en el Caribe"
+        ]
+    },
+    {
+        "id": 49,
+        "difficulty": "hard",
+        "question": "¿Cuál es el nombre científico del homínido extinto conocido como 'Lucy'?",
+        "correct_answer": "Australopithecus Afarensis",
+        "incorrect_answers": [
+            "Australopithecus Africanus",
+            "Australopithecus Architeuthis",
+            "Australopithecus Antaris"
+        ]
+    },
+    {
+        "id": 50,
+        "difficulty": "hard",
+        "question": "¿Cuál fue el primer compuesto orgánico sintetizado a partir de compuestos inorgánicos?",
+        "correct_answer": "Urea",
+        "incorrect_answers": [
+            "Propano",
+            "Etanol",
+            "Formaldehído"
+        ]
+    },
+    {
+        "id": 51,
+        "difficulty": "hard",
+        "question": "¿Cuál de lo siguiente es el término para 'complicaciones quirúrgicas resultantes de esponjas quirúrgicas dejadas dentro del cuerpo del paciente'?",
+        "correct_answer": "Gossypiboma",
+        "incorrect_answers": [
+            "Gongoozler",
+            "Jentacular",
+            "Meupareunia"
+        ]
+    },
+    {
+        "id": 52,
+        "difficulty": "hard",
+        "question": "¿Cuánto mide un año luz?",
+        "correct_answer": "9.461 Billones de Kilómetros",
+        "incorrect_answers": [
+            "1 UA",
+            "105.40 Años terrestres",
+            "501.2 Millones de Millas"
+        ]
+    },
+    {
+        "id": 53,
+        "difficulty": "hard",
+        "question": "En la escala de Scoville, ¿cuál es el químico más picante?",
+        "correct_answer": "Resiniferatoxina",
+        "incorrect_answers": [
+            "Capsaicina",
+            "Dihidrocapsaicina",
+            "Tinyatoxina"
+        ]
+    },
+    {
+        "id": 54,
+        "difficulty": "hard",
+        "question": "¿Cómo se conoce científicamente al Gorila de Llanura Occidental?",
+        "correct_answer": "Gorila Gorila Gorila",
+        "incorrect_answers": [
+            "Gorila Gorila Diehli",
+            "Gorila Beringei Graueri",
+            "Gorila Beringei Beringei"
+        ]
+    },
+    {
+        "id": 55,
+        "difficulty": "hard",
+        "question": "¿Cuál no es un tipo de neurona?",
+        "correct_answer": "Neurona perceptual",
+        "incorrect_answers": [
+            "Neurona sensorial",
+            "Neurona motora",
+            "Interneurona"
+        ]
+    },
+    {
+        "id": 56,
+        "difficulty": "hard",
+        "question": "¿Qué es el síndrome de emisión helio-oftálmico compulsivo dominante autosómico?",
+        "correct_answer": "Estornudar",
+        "incorrect_answers": [
+            "Toser",
+            "Bostezar",
+            "Hipo"
+        ]
+    },
+    {
+        "id": 57,
+        "difficulty": "hard",
+        "question": "¿Cuál de los siguientes líquidos es menos viscoso? Suponga que la temperatura es de 25°C.",
+        "correct_answer": "Acetona",
+        "incorrect_answers": [
+            "Agua",
+            "Mercurio",
+            "Benceno"
+        ]
+    },
+    {
+        "id": 58,
+        "difficulty": "hard",
+        "question": "¿Qué principio de física relaciona el flujo eléctrico neto fuera de una superficie cerrada con la carga encerrada por esa superficie?",
+        "correct_answer": "Ley de Gauss",
+        "incorrect_answers": [
+            "Ley de Faraday",
+            "Ley de Ampère",
+            "Ley de Biot-Savart"
+        ]
+    },
+    {
+        "id": 59,
+        "difficulty": "hard",
+        "question": "¿Qué es la coulrofobia?",
+        "correct_answer": "Miedo irracional a los payasos",
+        "incorrect_answers": [
+            "Cementerios",
+            "Agujas",
+            "Túneles"
+        ]
+    },
+    {
+        "id": 60,
+        "difficulty": "hard",
+        "question": "¿Cuál es el nombre científico de la rótula?",
+        "correct_answer": "Patela",
+        "incorrect_answers": [
+            "Fémur",
+            "Foramen Magnum",
+            "Escápula"
+        ]
+    }
+]

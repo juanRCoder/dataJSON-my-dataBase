@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "question": "La Bandera de la Unión Europea ¿cuántas estrellas tiene?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "id": 2,
+        "difficulty": "easy",
+        "question": "¿Cuál de los siguientes presidentes no está en el Monte Rushmore?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+            "Theodore Roosevelt",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "id": 3,
+        "difficulty": "easy",
+        "question": "¿Cuál de estos no es un diseño típico de espada europea?",
+        "correct_answer": "Scimitar",
+        "incorrect_answers": [
+            "Falchion",
+            "Ulfberht",
+            "Flamberge"
+        ]
+    },
+    {
+        "id": 4,
+        "difficulty": "easy",
+        "question": "¿En qué juego apareció por primera vez Waluigi?",
+        "correct_answer": "Mario Tennis 64 (N64)",
+        "incorrect_answers": [
+            "Wario Land: Super Mario Land 3",
+            "Mario Party (N64)",
+            "Super Smash Bros. Ultimate"
+        ]
+    },
+    {
+        "id": 5,
+        "difficulty": "easy",
+        "question": "¿Cuál es el símbolo del Zodiaco para Géminis?",
+        "correct_answer": "Gemelos",
+        "incorrect_answers": [
+            "Pez",
+            "Balanzas",
+            "Doncella"
+        ]
+    },
+    {
+        "id": 6,
+        "difficulty": "easy",
+        "question": "¿Qué tipo de aeronave desarrolló Igor Sikorsky en los Estados Unidos en 1942?",
+        "correct_answer": "Helicóptero",
+        "incorrect_answers": [
+            "Dirigible Stealth",
+            "Jet",
+            "Cápsula Espacial"
+        ]
+    },
+    {
+        "id": 7,
+        "difficulty": "easy",
+        "question": "¿De qué restaurante es mascota un payaso?",
+        "correct_answer": "McDonald's",
+        "incorrect_answers": [
+            "Whataburger",
+            "Burger King",
+            "Sonic"
+        ]
+    },
+    {
+        "id": 8,
+        "difficulty": "easy",
+        "question": "¿Sobre qué camina un funambulista?",
+        "correct_answer": "Sobre una cuerda floja",
+        "incorrect_answers": [
+            "Sobre vidrio roto",
+            "Sobre pelotas",
+            "En la Luna"
+        ]
+    },
+    {
+        "id": 9,
+        "difficulty": "easy",
+        "question": "¿De quién es el rostro que aparece en el raro billete de $2 de la moneda de los Estados Unidos?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+            "Martin Van Buren",
+            "Ulysses Grant",
+            "John Quincy Adams"
+        ]
+    },
+    {
+        "id": 10,
+        "difficulty": "easy",
+        "question": "¿De qué tiene miedo alguien con Cynofobia?",
+        "correct_answer": "De los perros",
+        "incorrect_answers": [
+            "De las aves",
+            "De volar",
+            "De los gérmenes"
+        ]
+    },
+    {
+        "id": 11,
+        "difficulty": "easy",
+        "question": "¿Cuál de estos juegos de Marvel fue lanzado en el PlayStation 2?",
+        "correct_answer": "Spider-Man 2",
+        "incorrect_answers": [
+            "Silver Surfer",
+            "Howard the Duck",
+            "Wolverine: Adamantium Rage"
+        ]
+    },
+    {
+        "id": 12,
+        "difficulty": "easy",
+        "question": "¿Cómo se conoce coloquialmente la moneda de 1 dólar canadiense?",
+        "correct_answer": "Loonie",
+        "incorrect_answers": [
+            "Boolie",
+            "Foolie",
+            "Moodie"
+        ]
+    },
+    {
+        "id": 13,
+        "difficulty": "easy",
+        "question": "¿Qué nueces se utilizan en la producción de mazapán?",
+        "correct_answer": "Almendras",
+        "incorrect_answers": [
+            "Cacahuetes",
+            "Nueces",
+            "Pistachos"
+        ]
+    },
+    {
+        "id": 14,
+        "difficulty": "easy",
+        "question": "El foie gras es una delicia francesa típicamente hecha de qué parte de un pato o ganso?",
+        "correct_answer": "Hígado",
+        "incorrect_answers": [
+            "Corazón",
+            "Estómago",
+            "Intestinos"
+        ]
+    },
+    {
+        "id": 15,
+        "difficulty": "easy",
+        "question": "¿En qué generación de los juegos principales de la serie Pokemon debutó el tipo 'hada'?",
+        "correct_answer": "6ta",
+        "incorrect_answers": [
+            "2da",
+            "7ma",
+            "4ta"
+        ]
+    },
+    {
+        "id": 16,
+        "difficulty": "easy",
+        "question": "¿Cuál de los siguientes es el código IATA para el Aeropuerto de Manchester?",
+        "correct_answer": "MAN",
+        "incorrect_answers": [
+            "EGLL",
+            "LHR",
+            "EGCC"
+        ]
+    },
+    {
+        "id": 17,
+        "difficulty": "easy",
+        "question": "¿Qué es 'dabbing'?",
+        "correct_answer": "Un baile",
+        "incorrect_answers": [
+            "Un procedimiento médico",
+            "Un deporte",
+            "Un idioma"
+        ]
+    },
+    {
+        "id": 18,
+        "difficulty": "easy",
+        "question": "¿Cuántos colores hay en un arcoíris?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "id": 19,
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre de la compañía en 'Lethal Company'?",
+        "correct_answer": "The Company",
+        "incorrect_answers": [
+            "Planet Scrap Co.",
+            "Lethal Robotics",
+            "Gordian Shipping Co."
+        ]
+    },
+    {
+        "id": 20,
+        "difficulty": "easy",
+        "question": "En un tablero de dardos, ¿qué número está directamente enfrente del No. 1?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+            "20",
+            "12",
+            "15"
+        ]
+    },
+    {
+        "id": 21,
+        "difficulty": "medium",
+        "question": "¿Qué es un centro comercial muerto?",
+        "correct_answer": "Un centro comercial con altas tasas de vacancia o bajo tráfico de consumidores",
+        "incorrect_answers": [
+            "Un centro comercial sin tiendas",
+            "Un centro comercial que ha sido condenado",
+            "Un centro comercial después del horario comercial"
+        ]
+    },
+    {
+        "id": 22,
+        "difficulty": "medium",
+        "question": "¿Después de cuántos años celebrarías tu aniversario de cristal?",
+        "correct_answer": "15",
+        "incorrect_answers": [
+            "20",
+            "10",
+            "25"
+        ]
+    },
+    {
+        "id": 23,
+        "difficulty": "medium",
+        "question": "¿Qué país tiene la mayoría de las cervecerías trapenses?",
+        "correct_answer": "Bélgica",
+        "incorrect_answers": [
+            "Países Bajos",
+            "Francia",
+            "EE. UU."
+        ]
+    },
+    {
+        "id": 24,
+        "difficulty": "medium",
+        "question": "¿Cuál de estos es el nombre de un sistema japonés de medicina alternativa, que significa literalmente 'presión con los dedos'?",
+        "correct_answer": "Shiatsu",
+        "incorrect_answers": [
+            "Ukiyo",
+            "Majime",
+            "Ikigai"
+        ]
+    },
+    {
+        "id": 25,
+        "difficulty": "medium",
+        "question": "¿Cuál es el signo del zodiaco de alguien nacido el día de San Valentín?",
+        "correct_answer": "Acuario",
+        "incorrect_answers": [
+            "Piscis",
+            "Capricornio",
+            "Escorpio"
+        ]
+    },
+    {
+        "id": 26,
+        "difficulty": "medium",
+        "question": "¿Cuál es la unidad de moneda en Laos?",
+        "correct_answer": "Kip",
+        "incorrect_answers": [
+            "Rublo",
+            "Konra",
+            "Dólar"
+        ]
+    },
+    {
+        "id": 27,
+        "difficulty": "medium",
+        "question": "¿Qué río atraviesa la ciudad escocesa de Glasgow?",
+        "correct_answer": "Clyde",
+        "incorrect_answers": [
+            "Tay",
+            "Dee",
+            "Tweed"
+        ]
+    },
+    {
+        "id": 28,
+        "difficulty": "medium",
+        "question": "¿Qué condimento esencial también se conoce como rábano picante japonés?",
+        "correct_answer": "Wasabi",
+        "incorrect_answers": [
+            "Mentsuyu",
+            "Karashi",
+            "Ponzu"
+        ]
+    },
+    {
+        "id": 29,
+        "difficulty": "medium",
+        "question": "¿Cuál de los siguientes edificios es un ejemplo de una estructura construida principalmente en el estilo arquitectónico Art Deco?",
+        "correct_answer": "Edificio Niagara Mohawk",
+        "incorrect_answers": [
+            "Taipei 101",
+            "One Detroit Center",
+            "Westendstrasse 1"
+        ]
+    },
+    {
+        "id": 30,
+        "difficulty": "medium",
+        "question": "¿Cuál es la última letra del alfabeto griego?",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+            "Mu",
+            "Epsilon",
+            "Kappa"
+        ]
+    },
+    {
+        "id": 31,
+      	"difficulty": "medium",
+        "question": "Según la BBPA, ¿cuál es el nombre de pub más común en el Reino Unido?",
+        "correct_answer": "Red Lion",
+        "incorrect_answers": [
+            "Roble Real",
+            "Ciervo Blanco",
+            "Cabeza del Rey"
+        ]
+    },
+    {
+        "id": 32,
+      	"difficulty": "medium",
+        "question": "Directamente entre el Monumento a Washington y la piscina reflectante hay un memorial a ¿qué guerra?",
+        "correct_answer": "Segunda Guerra Mundial",
+        "incorrect_answers": [
+            "Guerra de Vietnam",
+            "Guerra Civil Americana",
+            "Guerra Revolucionaria Americana"
+        ]
+    },
+    {
+        "id": 33,
+      	"difficulty": "medium",
+        "question": "¿En qué tipo de producto se especializa Rolex?",
+        "correct_answer": "Relojes",
+        "incorrect_answers": [
+            "Automóviles",
+            "Computadoras",
+            "Equipamiento deportivo"
+        ]
+    },
+    {
+        "id": 34,
+      	"difficulty": "medium",
+        "question": "¿Qué hace y vende un sombrerero?",
+        "correct_answer": "Sombreros",
+        "incorrect_answers": [
+            "Zapatos",
+            "Cinturones",
+            "Camisas"
+        ]
+    },
+    {
+        "id": 35,
+      	"difficulty": "medium",
+        "question": "El té Earl Grey es té negro aromatizado con ¿qué?",
+        "correct_answer": "Aceite de bergamota",
+        "incorrect_answers": [
+            "Lavanda",
+            "Vainilla",
+            "Miel"
+        ]
+    },
+    {
+        "id": 36,
+      	"difficulty": "medium",
+        "question": "¿Qué bebida alcohólica se elabora principalmente a partir de bayas de enebro?",
+        "correct_answer": "Ginebra",
+        "incorrect_answers": [
+            "Vodka",
+            "Ron",
+            "Tequila"
+        ]
+    },
+    {
+        "id": 37,
+      	"difficulty": "medium",
+        "question": "¿En qué año se fundó McDonald's?",
+        "correct_answer": "1955",
+        "incorrect_answers": [
+            "1964",
+            "1951",
+            "1947"
+        ]
+    },
+    {
+        "id": 38,
+      	"difficulty": "medium",
+        "question": "¿Cuánto dinero se perdió en estafas nigerianas en 2013?",
+        "correct_answer": "$12.7 Mil Millones",
+        "incorrect_answers": [
+            "$95 Millones",
+            "$956 Millones",
+            "$2.7 Mil Millones"
+        ]
+    },
+    {
+        "id": 39,
+      	"difficulty": "medium",
+        "question": "¿En qué año se acuñó el término 'científico'?",
+        "correct_answer": "1833",
+        "incorrect_answers": [
+            "1933",
+            "1942",
+            "1796"
+        ]
+    },
+    {
+        "id": 40,
+      	"difficulty": "medium",
+        "question": "¿Qué fabricante de automóviles italiano obtuvo el control mayoritario del fabricante de automóviles estadounidense Chrysler en 2011?",
+        "correct_answer": "Fiat",
+        "incorrect_answers": [
+            "Maserati",
+            "Alfa Romeo",
+            "Ferrari"
+        ]
+    },
+    {
+        "id": 41,
+      	"difficulty": "hard",
+        "question": "¿Cuándo fue fundado 'YouTube'?",
+        "correct_answer": "14 de febrero de 2005",
+        "incorrect_answers": [
+            "22 de mayo de 2004",
+            "12 de septiembre de 2005",
+            "19 de julio de 2009"
+        ]
+    },
+    {
+        "id": 42,
+      	"difficulty": "hard",
+        "question": "¿Cuál fue el tercer país en tener un restaurante McDonald's?",
+        "correct_answer": "Costa Rica",
+        "incorrect_answers": [
+            "Japón",
+            "Francia",
+            "Australia"
+        ]
+    },
+    {
+        "id": 43,
+      	"difficulty": "hard",
+        "question": "¿Qué es la nepelococigia?",
+        "correct_answer": "Encontrar formas en las nubes",
+        "incorrect_answers": [
+            "Dormir con los ojos abiertos",
+            "Romper vidrio con la voz",
+            "Nadar en agua congelada"
+        ]
+    },
+    {
+        "id": 44,
+      	"difficulty": "hard",
+        "question": "¿De qué empresa son las villas vacacionales De Eemhof, Port Zelande y Het Heijderbos?",
+        "correct_answer": "Center Parcs",
+        "incorrect_answers": [
+            "Yelloh Village",
+            "Keycamp",
+            "Villa Plus"
+        ]
+    },
+    {
+        "id": 45,
+      	"difficulty": "hard",
+        "question": "¿Qué significa la frase latina 'Veni, vidi, vici' en inglés?",
+        "correct_answer": "Vine, vi, vencí",
+        "incorrect_answers": [
+            "No ver el mal, no escuchar el mal, no hablar el mal",
+            "Vida, libertad y felicidad",
+            "Pasado, presente y futuro"
+        ]
+    },
+    {
+        "id": 46,
+      	"difficulty": "hard",
+        "question": "Si alguien dijera 'eres olido', ¿qué significaría?",
+        "correct_answer": "Hueles extremadamente desagradable.",
+        "incorrect_answers": [
+            "Estás fuera de forma/débil.",
+            "Tu apariencia es repulsiva.",
+            "Eres incomprensible/un idiota."
+        ]
+    },
+    {
+        "id": 47,
+      	"difficulty": "hard",
+        "question": "¿Qué significa la palabra sueca 'Grunka' en inglés?",
+        "correct_answer": "Cosa",
+        "incorrect_answers": [
+            "Gente",
+            "Lugar",
+            "Piña"
+        ]
+    },
+    {
+        "id": 48,
+      	"difficulty": "hard",
+        "question": "¿Cuánto tiempo tardaron los limpiadores de ventanas motorizados del World Trade Center original en limpiar toda la fachada del edificio?",
+        "correct_answer": "1 Mes",
+        "incorrect_answers": [
+            "3 Semanas",
+            "1 Semana",
+            "2 Meses"
+        ]
+    },
+    {
+        "id": 49,
+      	"difficulty": "hard",
+        "question": "¿Qué describe mejor al 'Quadrangularis Reversum'?",
+        "correct_answer": "Un instrumento de percusión",
+        "incorrect_answers": [
+            "Un edificio en la Universidad de Oxford",
+            "Una jugada de ajedrez",
+            "Un teorema geométrico"
+        ]
+    },
+    {
+        "id": 50,
+      	"difficulty": "hard",
+        "question": "Ubicada en Chile, ¿El Teniente es la mina subterránea más grande del mundo para qué metal?",
+        "correct_answer": "Cobre",
+        "incorrect_answers": [
+            "Hierro",
+            "Níquel",
+            "Plata"
+        ]
+    },
+    {
+        "id": 51,
+      	"difficulty": "hard",
+        "question": "¿Qué producto vendía originalmente Nokia, la empresa de telecomunicaciones?",
+        "correct_answer": "Papel",
+        "incorrect_answers": [
+            "Teléfonos",
+            "Computadoras",
+            "Procesadores"
+        ]
+    },
+    {
+        "id": 52,
+      	"difficulty": "hard",
+        "question": "¿Qué significa la palabra 'aprosexia'?",
+        "correct_answer": "La incapacidad para concentrarse en nada",
+        "incorrect_answers": [
+            "La incapacidad para tomar decisiones",
+            "Un deseo febril de quitarse la ropa",
+            "La incapacidad para ponerse de pie"
+        ]
+    },
+    {
+        "id": 53,
+      	"difficulty": "hard",
+        "question": "¿En qué año se lanzó el robot de juguete RoboSapien?",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+            "2000",
+            "2001",
+            "2006"
+        ]
+    },
+    {
+        "id": 54,
+      	"difficulty": "hard",
+        "question": "¿Cuál de estas ciudades NO tiene una ubicación de acuñación de la Casa de la Moneda de los Estados Unidos?",
+        "correct_answer": "St. Louis, MO",
+        "incorrect_answers": [
+            "San Francisco, CA",
+            "Filadelfia, PA",
+            "West Point, NY"
+        ]
+    },
+    {
+        "id": 55,
+      	"difficulty": "hard",
+        "question": "¿Qué productos químicos se encuentran en las semillas de berenjena?",
+        "correct_answer": "Nicotina",
+        "incorrect_answers": [
+            "Mescalina",
+            "Cianuro",
+            "Psilocibina"
+        ]
+    },
+    {
+        "id": 56,
+      	"difficulty": "hard",
+        "question": "En los sistemas de vuelo, ¿qué significa el acrónimo 'TCAS'?",
+        "correct_answer": "Sistema de Evitación de Colisiones de Tráfico",
+        "incorrect_answers": [
+            "Sistema de Alerta de Comunicación de Tráfico",
+            "Sistema de Alineación de Configuración de Tráfico",
+            "Sistema de Abreviación de Indicativo de Tráfico"
+        ]
+    },
+    {
+        "id": 57,
+      	"difficulty": "hard",
+        "question": "¿Cuántas notas hay en un piano de cola estándar?",
+        "correct_answer": "88",
+        "incorrect_answers": [
+            "98",
+            "108",
+            "78"
+        ]
+    },
+    {
+        "id": 58,
+      	"difficulty": "hard",
+        "question": "¿Cómo se estableció originalmente el Bank of America?",
+        "correct_answer": "Banco de Italia",
+        "incorrect_answers": [
+            "Banco de Long Island",
+            "Banco de Pensilvania",
+            "Banco de Charlotte"
+        ]
+    },
+    {
+        "id": 59,
+      	"difficulty": "hard",
+        "question": "La Mansión Embrujada de Disney alberga a un trío de Fantasmas Autostopistas. ¿Cuál de estos NO es uno de ellos?",
+        "correct_answer": "Harry",
+        "incorrect_answers": [
+            "Gus",
+            "Félix",
+            "Ezra"
+        ]
+    },
+    {
+        "id": 60,
+      	"difficulty": "hard",
+        "question": "¿Quién fundó la Academia Khan?",
+        "correct_answer": "Sal Khan",
+        "incorrect_answers": [
+            "Ben Khan",
+            "Kitt Khan",
+            "Adel Khan"
+        ]
+    }
+]
